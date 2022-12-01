@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://github.com/AqFad2811/epg/raw/main/astro.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz" refresh="1440" max-conn="3" refresh="24" billed-msg="tengok ler sampai lebam"
 
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1" group-title="MyTV" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/TV1.jpg",TV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
@@ -19,7 +19,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey.puteraseroja.tk/results.php?keyid=+E++gm0VdV75HryrZ8V9EA&key=ahNrZdLUVpnLHphQbfob7g
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey.puteraseroja.tk/results.php?keyid=f84fbe826d15755ef91ebcab67c57d10&key=6a136b65d2d45699cb1e98506dfa1bee
 #EXTINF:-1 tvg-id="AwesomeTV" tvg-name="Awesome TV" group-title="MyTV" tvg-logo="https://iili.io/1NqAMl.png",AwesomeTV CH123
 https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_ott.mpd
 
@@ -32,17 +32,17 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey.puteraseroja.tk/results.php?keyid=47a1206b44822c89320e70916cf57b0c&key=e040ca2aa426df789ba384ba561891b4
-#EXTINF:-1 tvg-id="DidikTVKPM" tvg-name="" group-title="UNIFI" group-logo="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/147.png",DidikTV KPM
+#EXTINF:-1 tvg-id="DidikTVKPM" tvg-name="" group-title="MyTV" group-logo="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/147.png",DidikTV KPM
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey.puteraseroja.tk/results.php?keyid=a9c619074ed38c20e25ad36c3c57c10c&key=056e1e49573d2caee5cb4fe78f8c4f3d
-#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" group-title="UNIFI" group-logo="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV
+#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" group-title="MyTV" group-logo="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey.puteraseroja.tk/results.php?keyid=1dfa8a645af41e83c520bddf913934ca&key=65f6af8750d24b230d91b984237ac1e4
-#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" group-title="UNIFI" group-logo="" tvg-logo="https://i.imgur.com/smKCnNj.png",TV9
+#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" group-title="MyTV" group-logo="" tvg-logo="https://i.imgur.com/smKCnNj.png",TV9
 https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
 
 
