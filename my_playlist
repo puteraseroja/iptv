@@ -1,5 +1,7 @@
 #EXTM3U x-tvg-url="https://github.com/AqFad2811/epg/raw/main/astro.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz" refresh="1440" max-conn="3" refresh="24" billed-msg="tengok sampai lebam"
 
+########################################### FREEVIEW ###########################################
+
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1" group-title="MyTV" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/TV1.jpg",TV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
@@ -56,6 +58,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 #EXT-X-STREAM-INF:BANDWIDTH=4596000,CODECS="avc1.77.31,mp4a.40.2",RESOLUTION=1920x1080
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
+#EXT-X-STREAM-INF:BANDWIDTH=1330000,RESOLUTION=1024x576
+https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
+
+########################################### NEWS ###########################################
+
 #EXTINF:-1 tvg-id="BeritaRtm" group-title="NEWS" group-logo="" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
@@ -80,3 +87,14 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #EXT-X-STREAM-INF:BANDWIDTH=4596000,CODECS="avc1.77.31,mp4a.40.2",RESOLUTION=1920x1080
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+
+########################################### XTRO ###########################################
+
+
+########################################### MNC ###########################################
+
+########################################### OTHERS ###########################################
+
+########################################### BACKUPS ###########################################
+
+
