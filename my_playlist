@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://github.com/AqFad2811/epg/raw/main/astro.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz" refresh="1440" max-conn="3" refresh="24" billed-msg="tengok ler sampai lebam"
+#EXTM3U x-tvg-url="https://github.com/AqFad2811/epg/raw/main/astro.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz" refresh="1440" max-conn="3" refresh="24" billed-msg="tengok sampai lebam"
 
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1" group-title="MyTV" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/TV1.jpg",TV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
@@ -45,7 +45,6 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
 #EXTINF:-1 tvg-id="TV9" tvg-name="TV9" group-title="MyTV" group-logo="" tvg-logo="https://i.imgur.com/smKCnNj.png",TV9
 https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey.puteraseroja.tk/results.php?keyid=41a42fb5af457501c11bb9b158d5a110&key=57a8d6f9e3832887db18ea6071118736
 #EXTINF:-1 tvg-id="TVAlhijrah" tvg-name="Al-Hijrah" group-title="MyTV" tvg-logo="https://iili.io/1NqqFI.png",Al-Hijrah
@@ -57,3 +56,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 #EXT-X-STREAM-INF:BANDWIDTH=4596000,CODECS="avc1.77.31,mp4a.40.2",RESOLUTION=1920x1080
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
+#EXTINF:-1 tvg-id="" group-title="NEWS" group-logo="" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#EXT-X-STREAM-INF:BANDWIDTH=4596000,CODECS="avc1.77.31,mp4a.40.2",RESOLUTION=1920x1080
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
+
+#EXTINF:-1 tvg-id="TVSUKAN" tvg-name="TV SUKAN" group-title="SPORTS" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/Sukan%20RTM.jpg",Sukan RTM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#EXT-X-STREAM-INF:BANDWIDTH=4596000,CODECS="avc1.77.31,mp4a.40.2",RESOLUTION=1920x1080
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
