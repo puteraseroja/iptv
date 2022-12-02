@@ -58,7 +58,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 #EXT-X-STREAM-INF:BANDWIDTH=4596000,CODECS="avc1.77.31,mp4a.40.2",RESOLUTION=1920x1080
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
-#EXTINF:-1 tvg-id="TVS" tvg-name="TVS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TVSarawak.png" group-title="MyTV",TVS CH122
+#EXTINF:-1 tvg-id="TVS" tvg-name="TVS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TVSarawak.png" group-title="MyTV",TVS
 #EXT-X-STREAM-INF:BANDWIDTH=1330000,RESOLUTION=1024x576
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 
