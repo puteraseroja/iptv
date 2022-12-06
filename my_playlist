@@ -1,31 +1,31 @@
-#EXTM3U x-tvg-url="https://github.com/AqFad2811/epg/raw/main/astro.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz" refresh="1440" max-conn="3" refresh="24" billed-msg="tengok sampai lebam"
+#EXTM3U x-tvg-url="https://github.com/AqFad2811/epg/raw/main/astro.xml,https://weareblahs.github.io/epg/unifitv.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz" refresh="1440" max-conn="3" refresh="24" billed-msg="tengok sampai lebam"
 
 ########################################### FREEVIEW ###########################################
 
-#EXTINF:-1 tvg-id="TV1" tvg-name="TV1" group-title="MyTV" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/TV1.jpg",TV1
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1" group-title="MyTV" group-logo="https://www.lyngsat.com/logo/corp/mm/mytv-broadcasting-my.png" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/TV1.jpg",TV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #EXT-X-VERSION:4
 #EXT-X-STREAM-INF:BANDWIDTH=4596000,CODECS="avc1.77.31,mp4a.40.2",RESOLUTION=1920x1080
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
-#EXTINF:-1 tvg-id="TV2" tvg-name="TV2" group-title="MyTV" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/TV2.jpg",TV2
+#EXTINF:-1 tvg-id="TV2" tvg-name="TV2" group-title="MyTV" group-logo=https://www.lyngsat.com/logo/corp/mm/mytv-broadcasting-my.png" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/TV2.jpg",TV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #EXT-X-STREAM-INF:BANDWIDTH=4596000,CODECS="avc1.77.31,mp4a.40.2",RESOLUTION=1920x1080
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey.puteraseroja.tk/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
-#EXTINF:-1 tvg-id="TV3" group-title="MyTV" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3
+#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" group-title="MyTV" group-logo="https://www.lyngsat.com/logo/corp/mm/mytv-broadcasting-my.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey.puteraseroja.tk/results.php?keyid=f84fbe826d15755ef91ebcab67c57d10&key=6a136b65d2d45699cb1e98506dfa1bee
-#EXTINF:-1 tvg-id="AwesomeTV" tvg-name="Awesome TV" group-title="MyTV" tvg-logo="https://iili.io/1NqAMl.png",AwesomeTV CH123
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/571d375e-6664-4769-982b-8d324ad50c42
+#EXTINF:-1 tvg-id="AwesomeTV" tvg-name="Awesome TV" group-title="MyTV" group-logo="https://www.lyngsat.com/logo/corp/mm/mytv-broadcasting-my.png" tvg-logo="https://iili.io/1NqAMl.png",AwesomeTV CH123
 https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_ott.mpd
 
-#EXTINF:-1 tvg-id="TV6" tvg-name="TV6" group-title="MyTV" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/TV6.jpg",TV6
+#EXTINF:-1 tvg-id="TV6" tvg-name="TV6" group-title="MyTV" group-logo="https://www.lyngsat.com/logo/corp/mm/mytv-broadcasting-my.png" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/TV6.jpg",TV6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #EXT-X-VERSION:4
@@ -33,51 +33,62 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_ott.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey.puteraseroja.tk/results.php?keyid=47a1206b44822c89320e70916cf57b0c&key=e040ca2aa426df789ba384ba561891b4
-#EXTINF:-1 tvg-id="DidikTVKPM" tvg-name="" group-title="MyTV" group-logo="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/147.png",DidikTV KPM
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/didiktvkpm
+#EXTINF:-1 tvg-id="DidikTVKPM" tvg-name="Didik TV KPM" group-title="MyTV" group-logo"=https://www.lyngsat.com/logo/corp/mm/mytv-broadcasting-my.png" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/147.png",DidikTV KPM
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey.puteraseroja.tk/results.php?keyid=a9c619074ed38c20e25ad36c3c57c10c&key=056e1e49573d2caee5cb4fe78f8c4f3d
-#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" group-title="MyTV" group-logo="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/8tv
+#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" group-title="MyTV" group-logo="https://www.lyngsat.com/logo/corp/mm/mytv-broadcasting-my.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey.puteraseroja.tk/results.php?keyid=1dfa8a645af41e83c520bddf913934ca&key=65f6af8750d24b230d91b984237ac1e4
-#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" group-title="MyTV" group-logo="" tvg-logo="https://i.imgur.com/smKCnNj.png",TV9
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9
+#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" group-title="MyTV" group-logo="https://www.lyngsat.com/logo/corp/mm/mytv-broadcasting-my.png" tvg-logo="https://i.imgur.com/smKCnNj.png",TV9
 https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey.puteraseroja.tk/results.php?keyid=41a42fb5af457501c11bb9b158d5a110&key=57a8d6f9e3832887db18ea6071118736
-#EXTINF:-1 tvg-id="TVAlhijrah" tvg-name="Al-Hijrah" group-title="MyTV" tvg-logo="https://iili.io/1NqqFI.png",Al-Hijrah
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1113
+#EXTINF:-1 tvg-id="TVAlhijrah" tvg-name="Al-Hijrah" group-title="MyTV" group-logo="https://www.lyngsat.com/logo/corp/mm/mytv-broadcasting-my.png" tvg-logo="https://iili.io/1NqqFI.png",Al-Hijrah
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 
-#EXTINF:-1 tvg-id="OKEY" tvg-name="TV Okey" group-title="MyTV" tvg-logo="https://iili.io/1NqeAg.png",TV Okey
+#EXTINF:-1 tvg-id="OKEY" tvg-name="TV Okey" group-title="MyTV" group-logo="https://www.lyngsat.com/logo/corp/mm/mytv-broadcasting-my.png" tvg-logo="https://iili.io/1NqeAg.png",TV Okey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXT-X-STREAM-INF:BANDWIDTH=4596000,CODECS="avc1.77.31,mp4a.40.2",RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,CODECS="avc1.4d40281,mp4a.40.2",RESOLUTION=1920x1080
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
-#EXTINF:-1 tvg-id="TVS" tvg-name="TVS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TVSarawak.png" group-title="MyTV",TVS
-#EXT-X-STREAM-INF:BANDWIDTH=1330000,RESOLUTION=1024x576
+#EXTINF:-1 tvg-id="TVS" tvg-name="TVS" group-title="MyTV" group-logo="https://www.lyngsat.com/logo/corp/mm/mytv-broadcasting-my.png" tvg-logo="https://iili.io/1Nqun4.png",TVS
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1077715,CODECS="avc1.42c028,mp4a.40.5",RESOLUTION=1024x576
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="IKIM" group-title="MyTV" tvg-logo="https://iili.io/1NTfv2.png",TV IKIM HD
+https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MyTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/SUKE_TV_Logo.png/revision/latest/scale-to-width-down/300",Suke TV
+#EXTVLCOPT:network-caching=1000
+https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCzh6SMSWad2934rgoq_cNkg/live
+
+#EXTINF:-1 tvg-id="" tvg-name="Drama Sangat" catchup="default" group-title="MyTV" tvg-logo="https://i.imgur.com/gAZfzvh.png",DRAMA SANGAT 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dailymotion.com
+https://stream.zeehanzgadget.com/dramasangat
 
 ########################################### NEWS ###########################################
 
-#EXTINF:-1 tvg-id="BeritaRtm" group-title="NEWS" group-logo="" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
+#EXTINF:-1 tvg-id="BeritaRtm" group-title="NEWS" group-logo="https://www.lyngsat.com/logo/tv/nn/news_live_in.png" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #EXT-X-STREAM-INF:BANDWIDTH=4596000,CODECS="avc1.77.31,mp4a.40.2",RESOLUTION=1920x1080
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
-#EXTINF:-1 tvg-id="AstroAwani" tvg-name="Astro Awani HD" group-title="NEWS" group-logo="" tvg-logo="https://iili.io/1NnYcN.png",Astro Awani
+#EXTINF:-1 tvg-id="AstroAwani" tvg-name="Astro Awani HD" group-title="NEWS" group-logo="https://www.lyngsat.com/logo/tv/nn/news_live_in.png" tvg-logo="https://iili.io/1NnYcN.png",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
-#EXTINF:-1 tvg-id="BernamaTV" group-title="NEWS" group-logo="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/502.png",Bernama YT
+#EXTINF:-1 tvg-id="BernamaTV" group-title="NEWS" group-logo="https://www.lyngsat.com/logo/tv/nn/news_live_in.png" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/502.png",Bernama YT
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw/live
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="NEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest/scale-to-width-down/820?cb=20190417224656",CNA 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="NEWS" group-logo="https://www.lyngsat.com/logo/tv/nn/news_live_in.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest/scale-to-width-down/820?cb=20190417224656",CNA 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 ########################################### SPORTS ###########################################
@@ -88,13 +99,19 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXT-X-STREAM-INF:BANDWIDTH=4596000,CODECS="avc1.77.31,mp4a.40.2",RESOLUTION=1920x1080
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
-#EXTINF:-1 tvg-id="unifi Sports 1" group-title="SPORTS" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/202202/20220220/20220220163044631gzk.png",Unifi Sports 1
+#EXTINF:-1 tvg-id="unifi Sports 1" tvg-name="unifi Sports 1" group-title="SPORTS" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/202202/20220220/20220220163044631gzk.png",Unifi Sports 1
 #EXTVLCOPT:http-referrer=http://www.unifi_en.com.my
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
-#EXTINF:-1 tvg-id="unifi Sports 2" group-title="SPORTS" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/202202/20220220/202202201646255845yc.png",Unifi Sports 2
+#EXTINF:-1 tvg-id="unifi Sports 2" tvg-name="unifi Sports 2" group-title="SPORTS" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/202202/20220220/202202201646255845yc.png",Unifi Sports 2
 #EXTVLCOPT:http-referrer=http://www.unifi_en.com.my
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
+
+#EXTINF:-1 tvg-id="SPOTV.kr" group-title="SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png",SPOTV HD
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SPOTV2" tvg-name="SPOTV2" group-title="SPORTS" tvg-logo="https://iili.io/MkG2hg.png",SPOTV2
+https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="wc2022-1" tvg-name="wc2022 1" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="SPORTS",ASTRO FWC 1
 #KODIPROP:inputstream=inputstream.adaptive
