@@ -168,35 +168,35 @@ https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="",bein sports 1 EN
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="https://iili.io/HnHw0hJ.png",bein sports 1 EN
 #EXTVLCOPT:http-referrer=https://olacast.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://webudi.openhd.lol/lb/premium61/index.m3u8|Referrer=https://olacast.live/
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="",bein sports2 EN
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="https://iili.io/HnHvEUQ.png",bein sports2 EN
 #EXTVLCOPT:http-referrer=https://olacast.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://webudi.openhd.lol/lb/premium90/index.m3u8|Referrer=https://olacast.live/
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="",bein sports 3 EN
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_beIN_SPORTS_3.png",bein sports 3 EN
 #EXTVLCOPT:http-referrer=https://olacast.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://webudi.openhd.lol/lb/premium46/index.m3u8|Referrer=https://olacast.live/
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="",bt sport 1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="https://iili.io/HnHPSDl.png",bt sport 1
 #EXTVLCOPT:http-referrer=https://olacast.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://webudi.openhd.lol/lb/premium31/index.m3u8|Referrer=https://olacast.live/
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="",bt sport 2
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="https://iili.io/HnHsOuf.png",bt sport 2
 #EXTVLCOPT:http-referrer=https://olacast.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://webudi.openhd.lol/lb/premium32/index.m3u8|Referrer=https://olacast.live/
