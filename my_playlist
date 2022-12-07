@@ -366,70 +366,70 @@ https://webudi.openhd.lol/lb/premium60/index.m3u8|Referrer=https://olacast.live/
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="test" tvg-logo="",test
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="test" tvg-logo="",beinsports1 EN
 #EXTVLCOPT:http-referrer=https://olacast.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://webudi.openhd.lol/lb/premium61/index.m3u8|Referrer=https://olacast.live/
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="test" tvg-logo="",test
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="test" tvg-logo="",beinsports1 canli
 #EXTVLCOPT:http-referrer=https://olacast.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://webudi.openhd.lol/lb/premium62/index.m3u8|Referrer=https://olacast.live/
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="test" tvg-logo="",test
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="test" tvg-logo="",beinsports2 tekrar
 #EXTVLCOPT:http-referrer=https://olacast.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://webudi.openhd.lol/lb/premium63/index.m3u8|Referrer=https://olacast.live/
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="test" tvg-logo="",test
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="test" tvg-logo="",beinsports3
 #EXTVLCOPT:http-referrer=https://olacast.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://webudi.openhd.lol/lb/premium64/index.m3u8|Referrer=https://olacast.live/
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="test" tvg-logo="",test
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="test" tvg-logo="",testskysports cricket
 #EXTVLCOPT:http-referrer=https://olacast.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://webudi.openhd.lol/lb/premium65/index.m3u8|Referrer=https://olacast.live/
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="test" tvg-logo="",test
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="test" tvg-logo="",tudn
 #EXTVLCOPT:http-referrer=https://olacast.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://webudi.openhd.lol/lb/premium66/index.m3u8|Referrer=https://olacast.live/
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="test" tvg-logo="",test
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="test" tvg-logo="",beinsports4
 #EXTVLCOPT:http-referrer=https://olacast.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://webudi.openhd.lol/lb/premium67/index.m3u8|Referrer=https://olacast.live/
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="test" tvg-logo="",test
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="test" tvg-logo="",Lfc tv
 #EXTVLCOPT:http-referrer=https://olacast.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://webudi.openhd.lol/lb/premium68/index.m3u8|Referrer=https://olacast.live/
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="test" tvg-logo="",test
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="test" tvg-logo="",prosto
 #EXTVLCOPT:http-referrer=https://olacast.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://webudi.openhd.lol/lb/premium69/index.m3u8|Referrer=https://olacast.live/
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="test" tvg-logo="",test
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="test" tvg-logo="",skysports golf
 #EXTVLCOPT:http-referrer=https://olacast.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://webudi.openhd.lol/lb/premium70/index.m3u8|Referrer=https://olacast.live/
@@ -439,11 +439,138 @@ https://webudi.openhd.lol/lb/premium70/index.m3u8|Referrer=https://olacast.live/
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="test" tvg-logo="",test
 #EXTVLCOPT:http-referrer=https://olacast.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://webudi.openhd.lol/lb/premium80/index.m3u8|Referrer=https://olacast.live/
+https://webudi.openhd.lol/lb/premium71/index.m3u8|Referrer=https://olacast.live/
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="test" tvg-logo="",test
+#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+https://webudi.openhd.lol/lb/premium72/index.m3u8|Referrer=https://olacast.live/
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="test" tvg-logo="",test
+#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+https://webudi.openhd.lol/lb/premium73/index.m3u8|Referrer=https://olacast.live/
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="test" tvg-logo="",test
+#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+https://webudi.openhd.lol/lb/premium74/index.m3u8|Referrer=https://olacast.live/
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="test" tvg-logo="",test
+#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+https://webudi.openhd.lol/lb/premium75/index.m3u8|Referrer=https://olacast.live/
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="test" tvg-logo="",test
+#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+https://webudi.openhd.lol/lb/premium76/index.m3u8|Referrer=https://olacast.live/
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="test" tvg-logo="",test
+#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+https://webudi.openhd.lol/lb/premium77/index.m3u8|Referrer=https://olacast.live/
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="test" tvg-logo="",test
+#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+https://webudi.openhd.lol/lb/premium78/index.m3u8|Referrer=https://olacast.live/
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="test" tvg-logo="",test
+#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+https://webudi.openhd.lol/lb/premium79/index.m3u8|Referrer=https://olacast.live/
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="test" tvg-logo="",sportv3
+#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+https://webudi.openhd.lol/lb/premium80/index.m3u8|Referrer=https://olacast.live/
+
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="test" tvg-logo="",test
+#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+https://webudi.openhd.lol/lb/premium81/index.m3u8|Referrer=https://olacast.live/
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="test" tvg-logo="",test
+#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+https://webudi.openhd.lol/lb/premium82/index.m3u8|Referrer=https://olacast.live/
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="test" tvg-logo="",test
+#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+https://webudi.openhd.lol/lb/premium83/index.m3u8|Referrer=https://olacast.live/
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="test" tvg-logo="",test
+#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+https://webudi.openhd.lol/lb/premium84/index.m3u8|Referrer=https://olacast.live/
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="test" tvg-logo="",test
+#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+https://webudi.openhd.lol/lb/premium85/index.m3u8|Referrer=https://olacast.live/
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="test" tvg-logo="",test
+#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+https://webudi.openhd.lol/lb/premium86/index.m3u8|Referrer=https://olacast.live/
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="test" tvg-logo="",test
+#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+https://webudi.openhd.lol/lb/premium87/index.m3u8|Referrer=https://olacast.live/
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="test" tvg-logo="",test
+#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+https://webudi.openhd.lol/lb/premium88/index.m3u8|Referrer=https://olacast.live/
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="test" tvg-logo="",test
+#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+https://webudi.openhd.lol/lb/premium89/index.m3u8|Referrer=https://olacast.live/
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="test" tvg-logo="",beinsports2 EN
 #EXTVLCOPT:http-referrer=https://olacast.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://webudi.openhd.lol/lb/premium90/index.m3u8|Referrer=https://olacast.live/
