@@ -389,6 +389,48 @@ https://webudi.openhd.lol/lb/premium298/index.m3u8|Referer=https://olacast.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
 https://webudi.openhd.lol/lb/premium299/index.m3u8|Referer=https://olacast.live/
 
+
+####### radio #######
+
+#EXTINF:0 tvg-name="THR GEGAR" tvg-ID="THR.GEGAR.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png" group-title="RADIO",THR GEGAR
+http://astro3.rastream.com/gegar?type=.flv&_=0.25499305268749595
+
+#EXTINF:0 tvg-name="Sinar FM" tvg-ID="SINAR.FM.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png" group-title="RADIO",Sinar FM
+http://astro2.rastream.com/sinar?type=.flv&_=0.36323276814073324
+
+#EXTINF:0 tvg-name="Klasik Nasional FM" tvg-ID="classic.rock.my" tvg-logo="https://liveonlineradio.net/wp-content/uploads/2011/06/Klasik-Nasional-FM-1.jpg" group-title="RADIO",Klasik Nasional FM
+https://radioklasik.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016.m3u8
+
+#EXTINF:0 tvg-name="Era FM" tvg-ID="ERA.FM.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png" group-title="RADIO",Era FM
+http://astro2.rastream.com/era?type=.flv&_=0.6250803847797215
+
+#EXTINF:0 tvg-name="Hitz FM" tvg-ID="HITZ.FM.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png" group-title="RADIO",Hitz FM
+http://astro1.rastream.com/hitz?type=.flv&_=0.6058576568029821
+
+#EXTINF:0 tvg-name="Hot FM" tvg-ID="ASYIK.FM.my" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/s9WDrbaf5Z.png" group-title="RADIO",Hot FM
+http://mediaprima.rastream.com/mediaprima-hotfm.android
+
+#EXTINF:0 tvg-name="Sabah Vfm" tvg-ID="V.FM.my" tvg-logo="https://liveonlineradio.net/wp-content/uploads/2011/06/sabah-fm-220x108.jpeg" group-title="RADIO",Sabah Vfm
+https://sabahvfmmobile.secureswiftcontent.com/rtm-ch024/rtm-ch024/chunklist.m3u8
+
+#EXTINF:0 tvg-name="ASYIK FM" tvg-ID="ASYIK.FM.my" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/asyik-kuala-lumpur.png" group-title="RADIO",ASYIK FM
+https://salamfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch022/rtm-ch022-96000.m3u8
+
+#EXTINF:0 tvg-name="BAYU" tvg-ID="BAYU.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/31_144.png" group-title="RADIO",BAYU
+http://ingest2.astro4.rastream.com/bayu
+
+#EXTINF:0 tvg-name="Radio ARENA" tvg-ID="astroarena.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/304_144.png" group-title="RADIO",Radio ARENA
+http://astro1.rastream.com/amp-arena?type=.flv
+
+#EXTINF:0 tvg-name="V FM" tvg-ID="V.FM.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/29_144.png" group-title="RADIO",V FM
+https://sabahvfmmobile.secureswiftcontent.com/rtm-ch024/rtm-ch024/chunklist.m3u8
+
+#EXTINF:0 tvg-name="THR RAAGA" tvg-ID="THR.RAAGA.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/30_144.png" group-title="RADIO",THR RAAGA
+http://astro3.rastream.com/raaga?type=.flv&_=0.2362835700623691
+
+#EXTINF:0 tvg-name="AMBOI FM" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/amboi.png" group-title="RADIO",AMBOI FM
+http://node-02.zeno.fm/555kr7upam0uv.aac?rj-ttl=5&rj-tok=AAABeT8e5HIA8EFX1cMpkIyLsw
+
 ########################################## TEST ##############################################
 
 #KODIPROP:inputstream=inputstream.adaptive
