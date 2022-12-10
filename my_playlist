@@ -83,9 +83,6 @@ https://stream.zeehanzgadget.com/dramasangat
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" tvg-logo="",Sbs Movies
 https://sbs-live-dai.akamaized.net/hls/live/2005470/channel5/open/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",NITV
-https://sbs-live.akamaized.net/hls/live/2002828/channel2/open/master.m3u8
-
 ########################################## KIDS ###########################################
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="",ZooMoo
@@ -93,6 +90,9 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="",BabyShark
 https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
+
+
+
 
 ########################################### NEWS ###########################################
 
