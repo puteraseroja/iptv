@@ -80,7 +80,7 @@ https://stream.zeehanzgadget.com/dramasangat
 
 ########################################### MOVIES ###########################################
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" tvg-logo="",Sbs Movies
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" group-logo="https://www.nicepng.com/png/detail/436-4369539_movie-logo-film.png" tvg-logo="",Sbs Movies
 https://sbs-live-dai.akamaized.net/hls/live/2005470/channel5/open/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" group-logo="https://www.nicepng.com/png/detail/436-4369539_movie-logo-film.png" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/my-cinema-id.png",MY Cinema 
