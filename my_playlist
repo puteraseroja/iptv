@@ -78,6 +78,11 @@ https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCzh6S
 #EXTVLCOPT:http-referrer=https://www.dailymotion.com
 https://stream.zeehanzgadget.com/dramasangat
 
+########################################### MOVIES ###########################################
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" tvg-logo="",Sbs Movies
+https://sbs-live-dai.akamaized.net/hls/live/2005470/channe5/open/master.m3u8
+
 ########################################### NEWS ###########################################
 
 #EXTINF:-1 tvg-id="BeritaRtm" group-title="NEWS" group-logo="https://www.lyngsat.com/logo/tv/nn/news_live_in.png" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
