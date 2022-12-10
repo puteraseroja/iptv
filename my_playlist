@@ -81,9 +81,12 @@ https://stream.zeehanzgadget.com/dramasangat
 ########################################### MOVIES ###########################################
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" tvg-logo="",Sbs Movies
-https://sbs-live-dai.akamaized.net/hls/live/2005470/channe5/open/master.m3u8
+https://sbs-live-dai.akamaized.net/hls/live/2005470/channel5/open/master.m3u8
 
-########################################### KIDS ###########################################
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",NITV
+https://sbs-live.akamaized.net/hls/live/2002828/channel2/open/master.m3u8
+
+########################################## KIDS ###########################################
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="",ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
@@ -372,11 +375,8 @@ https://turnthe.gameon.tel/live/itvuk/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
 https://webudi.openhd.lol/ddy1/premium350/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",sbs1
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",sbs
 https://sbs-live.akamaized.net/hls/live/2002827/channel1/open/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",sbs2
-https://sbs-live.akamaized.net/hls/live/2002828/channel2/open/master.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
