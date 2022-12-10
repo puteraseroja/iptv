@@ -337,6 +337,10 @@ https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/in
 #https://webudi.openhd.lol/lb/premium39/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=1235461/BF1BOX/5kUZnw26qs4F/234954
 https://webudi.openhd.lol/lb/premium39/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
 
+
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/233-2332507_fox-sports-fs1-logo-white.png" group-title="SPORTS",FS1
+https://playing.goforfreedomwme.net/live/fs1us/index.m3u8
+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/640px-TSN1.svg.png" group-title="SPORTS",TSN1
