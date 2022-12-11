@@ -95,6 +95,24 @@ http://210.210.155.35/uq2663/h/h193/index.m3u8?app_type=web&userid=50n13N0v14nd1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 http://210.210.155.35/uq2663/h/h18/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_Europe_HD
 
+#EXTINF: -1 tvg-id="" tvg-name="" group-title="MOVIES",HBO 
+http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
+
+EXTINF: -1 tvg-id="" tvg-name="" group-title="MOVIES", HBO Family
+http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
+
+#EXTINF: -1 tvg-id="" tvg-name="" group-title="MOVIES", HBO Signature
+http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
+
+#EXTINF: -1 tvg-id="" tvg-name="" group-title="MOVIES", HBO Hits
+http://50.7.220.74:8278/hbohits_twn/playlist.m3u8?tid=ma34564be88dc14041284&ct=17874&tsum=4c27530a08ffe34dd956619fd0f36a22
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWpr6QEZ6_5uEN1tEkmK3jCTKEQdpBLYZi3g&usqp=CAU",Action Movies 1
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWpr6QEZ6_5uEN1tEkmK3jCTKEQdpBLYZi3g&usqp=CAU",Action Movies 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfeb961b411c00090b52b3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" group-logo="https://www.nicepng.com/png/detail/436-4369539_movie-logo-film.png" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/my-family-id.png",My Family Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 http://210.210.155.35/uq2663/h/h194/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Family_Channel_Trial-
@@ -135,13 +153,13 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" group-logo="https://www.nicepng.com/png/detail/436-4369539_movie-logo-film.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Rakuten_Global_Brand_Logo.svg/440px-Rakuten_Global_Brand_Logo.svg.png" group-title="No group" tvg-id="" tvg-name="",Rakuten Action Movies
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="STIRRHorrorMovies.us" tvg-name="STIRRHorrorMovies.us"group-title="MOVIES" group-logo="https://www.nicepng.com/png/detail/436-4369539_movie-logo-film.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi-v-YIM3eq_GtbRcFbGkIbJKUHKX-aFRAJA&usqp=CAU",STIRR Horror Movies
+#EXTINF:-1 tvg-id="STIRRHorrorMovies.us" tvg-name="STIRRHorrorMovies.us" group-title="MOVIES" group-logo="https://www.nicepng.com/png/detail/436-4369539_movie-logo-film.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi-v-YIM3eq_GtbRcFbGkIbJKUHKX-aFRAJA&usqp=CAU",STIRR Horror Movies
 https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" group-logo="https://www.nicepng.com/png/detail/436-4369539_movie-logo-film.png" tvg-logo="https://i.imgur.com/SAfy1us.png",STIRR Movies
 https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
 
-#EXTINF:-1 tvg-id="XumoFreeWesterns.us" tvg-name="XumoFreeWesterns.us" group-logo="https://www.nicepng.com/png/detail/436-4369539_movie-logo-film.png" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/XumoFreeWesterns.png?raw=true",Xumo Free Westerns
+#EXTINF:-1 tvg-id="XumoFreeWesterns.us" tvg-name="XumoFreeWesterns.us" group-title="MOVIES" group-logo="https://www.nicepng.com/png/detail/436-4369539_movie-logo-film.png" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/XumoFreeWesterns.png?raw=true",Xumo Free Westerns
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumowesterns/CDN/playlist.m3u8
 
 ########################################## KOREAN ###########################################
@@ -160,10 +178,10 @@ https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400
 #EXTINF:-1 tvg-id="MTVMusic24.us" tvg-name="MTVMusic24.us" group-title="OTHERS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjb8ITI5hd_tFhGwNlrfawVQi5oUy8nweAjQ&usqp=CAU",MTV Music 24
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a26a056d55b30007918d5a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&serverSideAds=false&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-logo="https://www.itizaps.net/zapper/logo/b/box-hits.png" group-title="No group" tvg-id="BoxHits.uk" tvg-name="BoxHits.uk", Box Hits
+#EXTINF:-1 tvg-id="BoxHits.uk" tvg-name="BoxHits.uk" group-title="OTHERS" tvg-logo="https://www.itizaps.net/zapper/logo/b/box-hits.png",Box Hits
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 
-#EXTINF:-1 tvg-id="ClubbingTV.fr" tvg-name="ClubbingTV.fr" tvg-logo="https://images.pluto.tv/channels/5f984784ccb4de0007dfad74/colorLogoPNG.png",Clubbing TV
+#EXTINF:-1 tvg-id="ClubbingTV.fr" tvg-name="ClubbingTV.fr" group-title="OTHERS" tvg-logo="https://images.pluto.tv/channels/5f984784ccb4de0007dfad74/colorLogoPNG.png",Clubbing TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f984784ccb4de0007dfad74/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="OTHERS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSceKBfzjFFmJRyqS9gAgBD4DRBk_9qaDpo0A&usqp=CAU",MTV Spankin New
@@ -172,10 +190,10 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="OTHERS" tvg-logo="https://i.imgur.com/AiSGzIC.png",MTV Yo!
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
-#EXTINF:-1 tvg-id="mtv-rus" tvg-name="mtv-rus" tvg-logo="https://i.imgur.com/hKFctz9.png",MTV Biggest POP
+#EXTINF:-1 tvg-id="mtv-rus" tvg-name="mtv-rus" group-title="OTHERS" tvg-logo="https://i.imgur.com/hKFctz9.png",MTV Biggest POP
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_375.m3u8
 
-#EXTINF:-1 tvg-id="mtv-rus" tvg-name="mtv-rus" tvg-logo="https://i.imgur.com/Lqhy44V.png",MTV Block Party
+#EXTINF:-1 tvg-id="mtv-rus" tvg-name="mtv-rus" group-title="OTHERS" tvg-logo="https://i.imgur.com/Lqhy44V.png",MTV Block Party
 http://pluto-live.plutotv.net:80/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="OTHERS" tvg-logo="https://www.kindpng.com/picc/m/8-81371_top-music-red-logo-png-logo-top-music.png",Music Top
@@ -245,10 +263,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b26947
 #EXTINF: -1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="",Nick Jr
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="PlutoTVAnimeAllAges.us" tvg-name="PlutoTVAnimeAllAges.us" tvg-logo="http://images.pluto.tv/channels/5be4c6311843b56328bce619/colorLogoPNG.png",Pluto TV Anime All Ages
+#EXTINF:-1 tvg-id="PlutoTVAnimeAllAges.us" tvg-name="PlutoTVAnimeAllAges.us" group-title="KIDS" tvg-logo="http://images.pluto.tv/channels/5be4c6311843b56328bce619/colorLogoPNG.png",Pluto TV Anime All Ages
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-id="PlutoTVAnimeAllDay.us" tvg-name="PlutoTVAnimeAllDay.us" tvg-logo="http://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png",Pluto TV Anime All Day (720p)
+#EXTINF:-1 tvg-id="PlutoTVAnimeAllDay.us" tvg-name="PlutoTVAnimeAllDay.us" group-title="KIDS" tvg-logo="http://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png",Pluto TV Anime All Day (720p)
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="",ZooMoo
@@ -681,23 +699,7 @@ http://node-02.zeno.fm/555kr7upam0uv.aac?rj-ttl=5&rj-tok=AAABeT8e5HIA8EFX1cMpkIy
 #EXTINF:0 tvg-name="ZAYAN FM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/292_144.png" group-title="RADIO",Zayan FM
 https://github.com/AqFad2811/RadioYTLive/raw/main/Zayan.m3u8
 
-
-
 ########################################## TEST ##############################################
-
-#EXTINF: -1, HBO 
-#https://dai3fd1oh325y.cloudfront.net/origin/live/main/MSIA/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vTVNJQS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjY2OTEzNjY4fX19XX0_&Signature=sEB-DF-Rufdre2eYoCQRCBbE7TT5umF69ZRwGArct5j1ln-q-rNhCHEtX2AQxt~Wr7PqyztcST7WEcE9ZHGrALechXfVM28Fi4ElHZ80yw6ScqvwK4sZWLwszuvO4HCBzG4mjqC1jcgpdHO3p69IsyQ2cqvIRgYIMn-doWY8kxAuwW4yXjLa3HBeu8uQvQ8SKZWuRtlg5kAfTaRvtLSUuFPtO6I2cMsrbOlmH0~V2az72xvgh0aTXoozmCbGBJrQ7VaRZjONQOnBZqOLee0cVJra0Em2GEzw~~Qlj-ok23QRRNirVbQDtE6ZTmGZzJ~~3u3nnIIeTXlEpKzUk0u1VA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
-http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
-#EXTINF: -1, HBO Family
-http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
-#EXTINF: -1, HBO Signature
-http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
-#EXTINF: -1, HBO Hits
-http://50.7.220.74:8278/hbohits_twn/playlist.m3u8?tid=ma34564be88dc14041284&ct=17874&tsum=4c27530a08ffe34dd956619fd0f36a22
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWpr6QEZ6_5uEN1tEkmK3jCTKEQdpBLYZi3g&usqp=CAU" group-title="No group" tvg-id="" tvg-name="", Action Movies 1
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWpr6QEZ6_5uEN1tEkmK3jCTKEQdpBLYZi3g&usqp=CAU" group-title="No group" tvg-id="" tvg-name="", Action Movies 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfeb961b411c00090b52b3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
