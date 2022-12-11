@@ -515,8 +515,20 @@ http://astro2.rastream.com/era?type=.flv&_=0.6250803847797215
 #EXTINF:0 tvg-name="Hitz FM" tvg-ID="HITZ.FM.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png" group-title="RADIO",Hitz FM
 http://astro1.rastream.com/hitz?type=.flv&_=0.6058576568029821
 
-#EXTINF:0 tvg-name="Hot FM" tvg-ID="ASYIK.FM.my" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/s9WDrbaf5Z.png" group-title="RADIO",Hot FM
+#EXTINF:0 tvg-name="Hot FM" tvg-ID="HOT.FM.my" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/s9WDrbaf5Z.png" group-title="RADIO",Hot FM
 http://mediaprima.rastream.com/mediaprima-hotfm.android
+
+#EXTINF:-1 tvg-name="Kool FM" tvg-ID="KOOL.FM.my" tvg-logo="https://www.mediaprima.com.my/wp-content/uploads/2021/08/logo_buletinfm_master.png" group-title="RADIO",Buletin FM
+https://mediaprima.rastream.com/mediaprima-koolfm
+
+#EXTINF:-1 tvg-name="Fly FM" tvg-ID="FLY.FM.my" tvg-logo="https://www.mediaprima.com.my/wp-content/uploads/2021/08/logo_flyfm_master.png" group-title="RADIO",Fly FM
+https://mediaprima.rastream.com/mediaprima-flyfm
+
+#EXTINF:-1 tvg-name="8FM" tvg-ID="8.FM.my" tvg-logo="https://www.mediaprima.com.my/wp-content/uploads/2021/08/logo_8fm_master.png" group-title="RADIO",8FM
+https://mediaprima.rastream.com/mediaprima-onefm
+
+#EXTINF:-1 tvg-name="Molek FM" tvg-ID="MOLEK.FM.my" tvg-logo="https://www.mediaprima.com.my/wp-content/uploads/2022/01/logo_molekfm_master.png" group-title="RADIO",Molek FM
+https://mediaprima.rastream.com/mediaprima-molekfm
 
 #EXTINF:0 tvg-name="Sabah Vfm" tvg-ID="V.FM.my" tvg-logo="https://liveonlineradio.net/wp-content/uploads/2011/06/sabah-fm-220x108.jpeg" group-title="RADIO",Sabah Vfm
 https://sabahvfmmobile.secureswiftcontent.com/rtm-ch024/rtm-ch024/chunklist.m3u8
@@ -541,6 +553,8 @@ http://node-02.zeno.fm/555kr7upam0uv.aac?rj-ttl=5&rj-tok=AAABeT8e5HIA8EFX1cMpkIy
 
 #EXTINF:0 tvg-name="ZAYAN FM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/292_144.png" group-title="RADIO",Zayan FM
 https://github.com/AqFad2811/RadioYTLive/raw/main/Zayan.m3u8
+
+
 
 ########################################## TEST ##############################################
 
