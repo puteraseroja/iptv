@@ -80,6 +80,18 @@ https://stream.zeehanzgadget.com/dramasangat
 
 ########################################### MOVIES ###########################################
 
+#EXTINF:-1 tvg-id="701" tvg-name="AXN HD" group-title="MOVIES" tvg-logo="https://iili.io/1NoNqv.png",AXN
+http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
+
+#EXTINF:-1 tvg-id="BOO" tvg-name="BOO HD" group-title="BACKUP" tvg-logo="https://iili.io/1NC1Cx.png",BOO
+http://50.7.220.74:8278/Boo/playlist.m3u8?tid=m13c9739e046716729882&ct=17910&tsum=385e1887564e255d1164e639259d5793
+
+#EXTINF:-1 tvg-id="WarnerTV" tvg-name="Warner TV HD" group-title="BACKUP" tvg-logo="https://iili.io/1NaRi7.png",WarnerTV
+http://198.16.64.10:8278/WarnerTV/playlist.m3u8?tid=MADA9911440699114406&ct=19225&tsum=19bde622e34ceabf296cf92a9a1adede
+
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX HD" group-title="BACKUP" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png",Cinemax
+http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" group-logo="https://www.nicepng.com/png/detail/436-4369539_movie-logo-film.png" tvg-logo="",Sbs Movies
 https://sbs-live-dai.akamaized.net/hls/live/2005470/channel5/open/master.m3u8
 
@@ -98,11 +110,12 @@ http://210.210.155.35/uq2663/h/h18/index.m3u8?app_type=web&userid=50n13N0v14nd1&
 #EXTINF: -1 tvg-id="" tvg-name="" group-title="MOVIES",HBO 
 http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
 
-#EXTINF: -1 tvg-id="" tvg-name="" group-title="MOVIES",HBO Family
+#EXTINF:-1 tvg-id="HBOFamily" tvg-name="HBO Family HD" group-title="BACKUP" tvg-logo="https://iili.io/1N5hfn.png",HBO Family
 http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
 
-#EXTINF: -1 tvg-id="" tvg-name="" group-title="MOVIES",HBO Signature
-http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
+#EXTINF:-1 tvg-id="HBOSignatureAsia.sg" tvg-name="HBO Signature" group-title="BACKUP" tvg-logo="https://cdn.macan.tv/img/hbo_signature.png",HBO Signature 1
+http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
+
 
 #EXTINF: -1 tvg-id="" tvg-name="" group-title="MOVIES",HBO Hits
 http://50.7.220.74:8278/hbohits_twn/playlist.m3u8?tid=ma34564be88dc14041284&ct=17874&tsum=4c27530a08ffe34dd956619fd0f36a22
@@ -172,32 +185,29 @@ https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/
 
 ########################################## OTHERS ###########################################
 
-#EXTINF:-1 tvg-id="MTVLiveHD.us" tvg-name="MTVLiveHD.us" group-title="OTHERS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Mtv_live_hd_new_logo.png",MTV Live HD
-https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+#EXTINF:-1 tvg-id="CrimeInvestigation" tvg-name="Crime and Investigation HD" group-title="OTHERS" tvg-logo="https://iili.io/1NoZ22.png",Crime Investigation
+http://50.7.220.74:8278/ci_twn/playlist.m3u8?tid=m2d09f7473c8214224973&ct=17877&tsum=eb2ddbfed683e40621e2b023bf017892
 
-#EXTINF:-1 tvg-id="MTVMusic24.us" tvg-name="MTVMusic24.us" group-title="OTHERS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjb8ITI5hd_tFhGwNlrfawVQi5oUy8nweAjQ&usqp=CAU",MTV Music 24
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a26a056d55b30007918d5a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&serverSideAds=false&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="History" tvg-name="History HD" group-title="OTHERS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/History_v1.png",History Channel
+http://198.16.64.10:8278/History/playlist.m3u8?tid=MBCB1996306119963061&ct=19225&tsum=7c5458c8f917c8d0b182fb436f66e64f
 
-#EXTINF:-1 tvg-id="BoxHits.uk" tvg-name="BoxHits.uk" group-title="OTHERS" tvg-logo="https://www.itizaps.net/zapper/logo/b/box-hits.png",Box Hits
-https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+#EXTINF:-1 tvg-id="DiscoveryChannel" tvg-name="Discovery Channel HD" group-title="OTHERS" tvg-logo="https://iili.io/1NnsHP.png",Discovery
+http://198.16.64.10:8278/discoveryhd_twn/playlist.m3u8?tid=ME6E2405719624057196&ct=19225&tsum=57a7c421c65e00c1b8f68f67c30141dc
 
-#EXTINF:-1 tvg-id="ClubbingTV.fr" tvg-name="ClubbingTV.fr" group-title="OTHERS" tvg-logo="https://images.pluto.tv/channels/5f984784ccb4de0007dfad74/colorLogoPNG.png",Clubbing TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f984784ccb4de0007dfad74/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX HD" group-title="OTHERS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/DMAX_v1.png",Dmax
+http://50.7.220.74:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="OTHERS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSceKBfzjFFmJRyqS9gAgBD4DRBk_9qaDpo0A&usqp=CAU",MTV Spankin New
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanetIndonesia.id" tvg-name="Animal Planet" group-title="OTHERS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png",Animal Planet
+http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="OTHERS" tvg-logo="https://i.imgur.com/AiSGzIC.png",MTV Yo!
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic" tvg-name="National Geographic HD" group-title="OTHERS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/National_Geographic_2008.svg/revision/latest/scale-to-width-down/1000?cb=20170701154034",NatGeo
+http://198.16.64.10:8278/Natgeo/playlist.m3u8?tid=MFCF3878328938783289&ct=19225&tsum=d9b8d4ee66870f387dfdf70452237e40
 
-#EXTINF:-1 tvg-id="mtv-rus" tvg-name="mtv-rus" group-title="OTHERS" tvg-logo="https://i.imgur.com/hKFctz9.png",MTV Biggest POP
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_375.m3u8
+#EXTINF:-1 tvg-id="NatGeoWild" tvg-name="Nat Geo Wild HD" group-title="OTHERS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/NatGeo_WILD_V3.png",NatGeo Wild 2
+http://198.16.64.10:8278/Natgeowild/playlist.m3u8?tid=MB1B3860629238606292&ct=19225&tsum=315ac040bcdf094ccacd3f57a127d1bf
 
-#EXTINF:-1 tvg-id="mtv-rus" tvg-name="mtv-rus" group-title="OTHERS" tvg-logo="https://i.imgur.com/Lqhy44V.png",MTV Block Party
-http://pluto-live.plutotv.net:80/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="OTHERS" tvg-logo="https://www.kindpng.com/picc/m/8-81371_top-music-red-logo-png-logo-top-music.png",Music Top
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC HD" group-title="OTHERS" tvg-logo="https://iili.io/1NxCTF.png",TLC
+http://198.16.64.10:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
 
 #EXTINF: -1 tvg-id="" tvg-name="" group-title="OTHERS" tvg-logo="",Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
@@ -238,6 +248,33 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d796e
 #EXTINF:-1 tvg-id="ThePetCollective.us" group-title="OTHERS" tvg-name="ThePetCollective.us" tvg-logo="https://i.imgur.com/Mk28uUy.png",The Pet Collective
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ad55268cae539bcedb08/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=637&deviceId=5bb1ad55268cae539bcedb08&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
+#EXTINF:-1 tvg-id="MTVLiveHD.us" tvg-name="MTVLiveHD.us" group-title="OTHERS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Mtv_live_hd_new_logo.png",MTV Live HD
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+
+#EXTINF:-1 tvg-id="MTVMusic24.us" tvg-name="MTVMusic24.us" group-title="OTHERS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjb8ITI5hd_tFhGwNlrfawVQi5oUy8nweAjQ&usqp=CAU",MTV Music 24
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a26a056d55b30007918d5a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&serverSideAds=false&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-id="BoxHits.uk" tvg-name="BoxHits.uk" group-title="OTHERS" tvg-logo="https://www.itizaps.net/zapper/logo/b/box-hits.png",Box Hits
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+
+#EXTINF:-1 tvg-id="ClubbingTV.fr" tvg-name="ClubbingTV.fr" group-title="OTHERS" tvg-logo="https://images.pluto.tv/channels/5f984784ccb4de0007dfad74/colorLogoPNG.png",Clubbing TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f984784ccb4de0007dfad74/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="OTHERS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSceKBfzjFFmJRyqS9gAgBD4DRBk_9qaDpo0A&usqp=CAU",MTV Spankin New
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="OTHERS" tvg-logo="https://i.imgur.com/AiSGzIC.png",MTV Yo!
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+
+#EXTINF:-1 tvg-id="mtv-rus" tvg-name="mtv-rus" group-title="OTHERS" tvg-logo="https://i.imgur.com/hKFctz9.png",MTV Biggest POP
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_375.m3u8
+
+#EXTINF:-1 tvg-id="mtv-rus" tvg-name="mtv-rus" group-title="OTHERS" tvg-logo="https://i.imgur.com/Lqhy44V.png",MTV Block Party
+http://pluto-live.plutotv.net:80/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="OTHERS" tvg-logo="https://www.kindpng.com/picc/m/8-81371_top-music-red-logo-png-logo-top-music.png",Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+
 
 ########################################## KIDS ###########################################
 
@@ -251,11 +288,25 @@ https://webudi.openhd.lol/lb/premium312/index.m3u8|ExoPlayerLib/2.13.2=&referer=
 #EXTINF:-1 tvg-id="DisneyXDEast.us" group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1024px-Disney_XD_-_2015.svg.png",Disney XD
 https://webudi.openhd.lol/lb/premium314/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
-#EXTINF: -1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="",Disney junior 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="",Disney junior 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="https://static.megavie.live/media/animaxhd.jpg",Animax
-https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+#https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+http://198.16.64.10:8278/Animax/playlist.m3u8?tid=MD5D2874027628740276&ct=19225&tsum=7a70d49085de7ded56bc64fa8d46c506
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS",Cartoon Network
+http://198.16.64.10:8278/Cn/playlist.m3u8?tid=MCDC2144535021445350&ct=19225&tsum=32569c846de798e3502372d35d00773f
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS",Cbeebies
+http://198.16.64.10:8278/Cbeebies/playlist.m3u8?tid=ME5E7901951779019517&ct=19225&tsum=03bb5bab7f669081444ce37cda408b8d
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS",Nick Jr
+http://198.16.64.10:8278/Nickjr/playlist.m3u8?tid=MA3A3266018432660184&ct=19225&tsum=ab65f24cfbcee7192bade2c6f4055102
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS",Nickelodeon
+http://198.16.64.10:8278/Nickelodeon/playlist.m3u8?tid=MB0B3920856439208564&ct=19225&tsum=8dd558d6ca17cb0d8e9e4563c0787c69
+
 
 #EXTINF: -1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="",Nick Jr
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
