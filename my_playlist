@@ -539,6 +539,11 @@ http://astro3.rastream.com/raaga?type=.flv&_=0.2362835700623691
 #EXTINF:0 tvg-name="AMBOI FM" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/amboi.png" group-title="RADIO",AMBOI FM
 http://node-02.zeno.fm/555kr7upam0uv.aac?rj-ttl=5&rj-tok=AAABeT8e5HIA8EFX1cMpkIyLsw
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/41e7460f-2966-42c9-b553-7587d3571ade
+#EXTINF:0 tvg-name="ZAYAN FM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/292_144.png" group-title="RADIO",ZAYAN FM
+https://linearjitp-playback.astro.com.my/dash-wv/linear/142/default.mpd
+
 ########################################## TEST ##############################################
 
 #KODIPROP:inputstream=inputstream.adaptive
