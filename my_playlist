@@ -98,7 +98,7 @@ http://210.210.155.35/uq2663/h/h18/index.m3u8?app_type=web&userid=50n13N0v14nd1&
 #EXTINF: -1 tvg-id="" tvg-name="" group-title="MOVIES",HBO 
 http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
 
-EXTINF: -1 tvg-id="" tvg-name="" group-title="MOVIES", HBO Family
+#EXTINF: -1 tvg-id="" tvg-name="" group-title="MOVIES", HBO Family
 http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
 
 #EXTINF: -1 tvg-id="" tvg-name="" group-title="MOVIES", HBO Signature
