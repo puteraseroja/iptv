@@ -98,13 +98,13 @@ http://210.210.155.35/uq2663/h/h18/index.m3u8?app_type=web&userid=50n13N0v14nd1&
 #EXTINF: -1 tvg-id="" tvg-name="" group-title="MOVIES",HBO 
 http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
 
-#EXTINF: -1 tvg-id="" tvg-name="" group-title="MOVIES", HBO Family
+#EXTINF: -1 tvg-id="" tvg-name="" group-title="MOVIES",HBO Family
 http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
 
-#EXTINF: -1 tvg-id="" tvg-name="" group-title="MOVIES", HBO Signature
+#EXTINF: -1 tvg-id="" tvg-name="" group-title="MOVIES",HBO Signature
 http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 
-#EXTINF: -1 tvg-id="" tvg-name="" group-title="MOVIES", HBO Hits
+#EXTINF: -1 tvg-id="" tvg-name="" group-title="MOVIES",HBO Hits
 http://50.7.220.74:8278/hbohits_twn/playlist.m3u8?tid=ma34564be88dc14041284&ct=17874&tsum=4c27530a08ffe34dd956619fd0f36a22
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWpr6QEZ6_5uEN1tEkmK3jCTKEQdpBLYZi3g&usqp=CAU",Action Movies 1
