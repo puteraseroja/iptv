@@ -83,13 +83,25 @@ https://stream.zeehanzgadget.com/dramasangat
 #EXTINF:-1 tvg-id="701" tvg-name="AXN HD" group-title="MOVIES" tvg-logo="https://iili.io/1NoNqv.png",AXN
 http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
 
-#EXTINF:-1 tvg-id="BOO" tvg-name="BOO HD" group-title="BACKUP" tvg-logo="https://iili.io/1NC1Cx.png",BOO
+#EXTINF:-1 tvg-id="BOO" tvg-name="BOO HD" group-title="MOVIES" tvg-logo="https://iili.io/1NC1Cx.png",BOO
 http://50.7.220.74:8278/Boo/playlist.m3u8?tid=m13c9739e046716729882&ct=17910&tsum=385e1887564e255d1164e639259d5793
 
-#EXTINF:-1 tvg-id="WarnerTV" tvg-name="Warner TV HD" group-title="BACKUP" tvg-logo="https://iili.io/1NaRi7.png",WarnerTV
+#EXTINF:-1 tvg-id="WarnerTV" tvg-name="Warner TV HD" group-title="MOVIES" tvg-logo="https://iili.io/1NaRi7.png",WarnerTV
 http://198.16.64.10:8278/WarnerTV/playlist.m3u8?tid=MADA9911440699114406&ct=19225&tsum=19bde622e34ceabf296cf92a9a1adede
 
-#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX HD" group-title="BACKUP" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png",Cinemax
+#EXTINF: -1 tvg-id="" tvg-name="" group-title="MOVIES",HBO 
+http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
+
+#EXTINF:-1 tvg-id="HBOFamily" tvg-name="HBO Family HD" group-title="MOVIES" tvg-logo="https://iili.io/1N5hfn.png",HBO Family
+http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
+
+#EXTINF:-1 tvg-id="HBOSignatureAsia.sg" tvg-name="HBO Signature" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/hbo_signature.png",HBO Signature 1
+http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
+
+#EXTINF: -1 tvg-id="" tvg-name="" group-title="MOVIES",HBO Hits
+http://50.7.220.74:8278/hbohits_twn/playlist.m3u8?tid=ma34564be88dc14041284&ct=17874&tsum=4c27530a08ffe34dd956619fd0f36a22
+
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX HD" group-title="MOVIES" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png",Cinemax
 http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" group-logo="https://www.nicepng.com/png/detail/436-4369539_movie-logo-film.png" tvg-logo="",Sbs Movies
@@ -106,19 +118,6 @@ http://210.210.155.35/uq2663/h/h193/index.m3u8?app_type=web&userid=50n13N0v14nd1
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" group-logo="https://www.nicepng.com/png/detail/436-4369539_movie-logo-film.png" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/my_cinema_europe_kr.png",My Cinema Europe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 http://210.210.155.35/uq2663/h/h18/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_Europe_HD
-
-#EXTINF: -1 tvg-id="" tvg-name="" group-title="MOVIES",HBO 
-http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
-
-#EXTINF:-1 tvg-id="HBOFamily" tvg-name="HBO Family HD" group-title="BACKUP" tvg-logo="https://iili.io/1N5hfn.png",HBO Family
-http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
-
-#EXTINF:-1 tvg-id="HBOSignatureAsia.sg" tvg-name="HBO Signature" group-title="BACKUP" tvg-logo="https://cdn.macan.tv/img/hbo_signature.png",HBO Signature 1
-http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
-
-
-#EXTINF: -1 tvg-id="" tvg-name="" group-title="MOVIES",HBO Hits
-http://50.7.220.74:8278/hbohits_twn/playlist.m3u8?tid=ma34564be88dc14041284&ct=17874&tsum=4c27530a08ffe34dd956619fd0f36a22
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWpr6QEZ6_5uEN1tEkmK3jCTKEQdpBLYZi3g&usqp=CAU",Action Movies 1
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -185,6 +184,9 @@ https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/
 
 ########################################## OTHERS ###########################################
 
+#EXTINF:-1 tvg-id="AnimalPlanetIndonesia.id" tvg-name="Animal Planet" group-title="OTHERS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png",Animal Planet
+http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
+
 #EXTINF:-1 tvg-id="CrimeInvestigation" tvg-name="Crime and Investigation HD" group-title="OTHERS" tvg-logo="https://iili.io/1NoZ22.png",Crime Investigation
 http://50.7.220.74:8278/ci_twn/playlist.m3u8?tid=m2d09f7473c8214224973&ct=17877&tsum=eb2ddbfed683e40621e2b023bf017892
 
@@ -196,9 +198,6 @@ http://198.16.64.10:8278/discoveryhd_twn/playlist.m3u8?tid=ME6E2405719624057196&
 
 #EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX HD" group-title="OTHERS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/DMAX_v1.png",Dmax
 http://50.7.220.74:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279
-
-#EXTINF:-1 tvg-id="AnimalPlanetIndonesia.id" tvg-name="Animal Planet" group-title="OTHERS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png",Animal Planet
-http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
 
 #EXTINF:-1 tvg-id="NationalGeographic" tvg-name="National Geographic HD" group-title="OTHERS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/National_Geographic_2008.svg/revision/latest/scale-to-width-down/1000?cb=20170701154034",NatGeo
 http://198.16.64.10:8278/Natgeo/playlist.m3u8?tid=MFCF3878328938783289&ct=19225&tsum=d9b8d4ee66870f387dfdf70452237e40
@@ -309,7 +308,6 @@ http://198.16.64.10:8278/Nickjr/playlist.m3u8?tid=MA3A3266018432660184&ct=19225&
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS",Nickelodeon
 http://198.16.64.10:8278/Nickelodeon/playlist.m3u8?tid=MB0B3920856439208564&ct=19225&tsum=8dd558d6ca17cb0d8e9e4563c0787c69
-
 
 #EXTINF: -1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="",Nick Jr
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -1083,7 +1081,6 @@ https://webudi.openhd.lol/lb/premium58/index.m3u8|Referrer=https://olacast.live/
 #EXTVLCOPT:http-referrer=https://olacast.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://webudi.openhd.lol/lb/premium59/index.m3u8|Referrer=https://olacast.live/
-
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
