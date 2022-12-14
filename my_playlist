@@ -1790,16 +1790,26 @@ https://webudi.openhd.lol/lb/premium159/index.m3u8|Referrer=https://olacast.live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://webudi.openhd.lol/lb/premium160/index.m3u8|Referrer=https://olacast.live/
 
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c3Rv0ru.png" group-title="test",Cinema World
+http://pprotv.com:80/97887222/97887222/39445
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4DyH9pK.png" group-title="test",Star Movies Select
+http://103.179.246.243:8000/play/a00w
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OVH9Ehe.png" group-title="test",Movies Now
+http://qualityoverquantity.site:8880/play/live.php?mac=00:1A:79:35:B2:F6&stream=862687&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg" group-title="Movies",MN+
+http://103.179.246.243:8000/play/a00u
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PIvZZqq.png" group-title="test",MNX
+http://qualityoverquantity.site:8880/play/live.php?mac=00:1A:79:8f:0e:3c&stream=862683&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="Movies",& flix
+http://103.179.246.243:8000/play/a00p
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h9W2I7O.png" group-title="test",& privé
+http://103.179.246.243:8000/play/a01d
+#EXTINF:-1 tvg-logo="https://i.imgur.com/orSH62Q.png" group-title="test",beIN Movies 1 Premiere
+http://starshare.live:8080/live/usman007/usman007/4694.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WkldO68.png" group-title="test",beIN Movies 2 Action
+http://starshare.live:8080/live/usman007/usman007/4695.ts
+#EXTINF:-1 tvg-name="Animax" tvg-logo="https://i.ibb.co/GRwtpJt/ANIMAX.png" group-title="test",Animax
+http://pprotv.com:80/97887222/97887222/39544
 
 
 
