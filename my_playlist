@@ -1799,7 +1799,7 @@ http://qualityoverquantity.site:8880/play/live.php?mac=00:1A:79:35:B2:F6&stream=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg" group-title="Movies",MN+
 http://103.179.246.243:8000/play/a00u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PIvZZqq.png" group-title="test",MNX
-http://qualityoverquantity.site:8880/play/live.php?mac=00:1A:79:8f:0e:3c&stream=862683&extension=ts
+http://qualityoverquantity.site:8880/play/live.php?mac=00:1A:79:35:B2:F6&stream=862683&extension=ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="Movies",& flix
 http://103.179.246.243:8000/play/a00p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h9W2I7O.png" group-title="test",& privé
