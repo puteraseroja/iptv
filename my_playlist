@@ -103,8 +103,9 @@ http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&
 #EXTINF:-1 tvg-id="HBOHits1" tvg-name="HBO Hits +1 HD" tvg-logo="https://iili.io/1N5jls.png" group-title="MOVIES",HBO Hit
 http://50.7.220.74:8278/hbohits_twn/playlist.m3u8?tid=ma34564be88dc14041284&ct=17874&tsum=4c27530a08ffe34dd956619fd0f36a22
 
-#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX HD" tvg-logo="https://iili.io/1NCG4V.png" group-title="MOVIES",CINEMAX
-http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
+#EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="CINEMAX HD" tvg-logo="https://iili.io/1NCG4V.png" group-title="MOVIES",CINEMAX
+#http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
+http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=mf18038aaba6311485855&ct=17874&tsum=63ee6bcdb705ee72ea3d0f0d84ed6df1
 
 #EXTINF:-1 tvg-id="473" tvg-name="ROCK Entertainment" group-title="MOVIES" group-logo="https://images.tokopedia.net/img/elTgOa/2022/6/16/afd9e20e-e781-4f83-bc5a-f406f987358a.jpg" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png",Rock Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
