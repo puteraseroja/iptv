@@ -716,7 +716,7 @@ http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/146469.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://webudi.openhd.lol/lb/premium294/index.m3u8|Referer=https://olacast.live/
 
-#EXTINF:-1 tvg-id="wc2022-2" tvg-name="wc2022 2" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="WorldCup2022",ASTRO FWC 2a
+#EXTINF:-1 tvg-id="wc2022-2" tvg-name="wc2022 2" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="WorldCup2022",ASTRO FWC 2
 http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/146470.m3u8
 
 #EXTINF:-1 tvg-id="wc2022-2" tvg-name="wc2022 2" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="WorldCup2022",ASTRO FWC 2a
