@@ -103,6 +103,15 @@ http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&
 #EXTINF:-1 tvg-id="HBOHits1" tvg-name="HBO Hits +1 HD" tvg-logo="https://iili.io/1N5jls.png" group-title="MOVIES",HBO Hit
 http://50.7.220.74:8278/hbohits_twn/playlist.m3u8?tid=ma34564be88dc14041284&ct=17874&tsum=4c27530a08ffe34dd956619fd0f36a22
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",HBO
+http://45.232.210.1:8062/play/a0b3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",HBO 2
+http://45.232.210.1:8062/play/a08f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",HBO Family
+http://45.232.210.1:8062/play/a08i/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",HBO Plus
+http://45.232.210.1:8062/play/a08g/index.m3u8
+
 #EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="CINEMAX HD" tvg-logo="https://iili.io/1NCG4V.png" group-title="MOVIES",CINEMAX
 #http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
 http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=mf18038aaba6311485855&ct=17874&tsum=63ee6bcdb705ee72ea3d0f0d84ed6df1
