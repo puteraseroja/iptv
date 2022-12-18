@@ -116,6 +116,9 @@ http://45.232.210.1:8062/play/a08g/index.m3u8
 #http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
 http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=mf18038aaba6311485855&ct=17874&tsum=63ee6bcdb705ee72ea3d0f0d84ed6df1
 
+#EXTINF:-1 tvg-id="762" group-title="MOVIES" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",Sony Pix HD
+http://jio.buttflix.best/autoq.php?c=Sony_Pix_HD
+
 #EXTINF:-1 tvg-id="473" tvg-name="ROCK Entertainment" group-title="MOVIES" group-logo="https://images.tokopedia.net/img/elTgOa/2022/6/16/afd9e20e-e781-4f83-bc5a-f406f987358a.jpg" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png",Rock Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 http://210.210.155.35/dr9445/h/h16/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ROCK_Entertainment_HD
