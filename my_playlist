@@ -125,9 +125,15 @@ https://tv.googledrivelinks.com:443/autoq.php?c=Sony_Pix_HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 http://210.210.155.35/dr9445/h/h15/index.m3u8
 
+#EXTINF:-1 tvg-id="474" tvg-name="ROCK Extreme" group-title="MOVIES" group-logo="https://images.tokopedia.net/img/elTgOa/2022/6/16/afd9e20e-e781-4f83-bc5a-f406f987358a.jpg" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/202109/20210902/20210902163736941716.png",Rock Action
+http://iptvid.my.id/hmm/rockext.m3u8 
+
 #EXTINF:-1 tvg-id="473" tvg-name="ROCK Entertainment" group-title="MOVIES" group-logo="https://images.tokopedia.net/img/elTgOa/2022/6/16/afd9e20e-e781-4f83-bc5a-f406f987358a.jpg" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png",Rock Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 http://210.210.155.35/dr9445/h/h16/index.m3u8
+
+#EXTINF:-1 tvg-id="473" tvg-name="ROCK Entertainment" group-title="MOVIES" group-logo="https://images.tokopedia.net/img/elTgOa/2022/6/16/afd9e20e-e781-4f83-bc5a-f406f987358a.jpg" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png",Rock Entertainment
+http://iptvid.my.id/hmm/rock.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" group-logo="https://www.nicepng.com/png/detail/436-4369539_movie-logo-film.png" tvg-logo="",Sbs Movies
 #https://sbs-live-dai.akamaized.net/hls/live/2005470/channel5/open/master.m3u8
