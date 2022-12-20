@@ -442,6 +442,21 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c63118
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="",ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="KIDS",IndiKids
+http://iptvid.my.id/hmm/indikids.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="KIDS",Horee
+http://iptvid.my.id/hmm/horee.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="KIDS",Dreamworks
+http://iptvid.my.id/hmm/drmwrk.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="KIDS",Da Vinci
+http://iptvid.my.id/hmm/davinci.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="KIDS",Dunia Anak
+http://iptvid.my.id/hmm/duniaanak.m3u8
+
 #EXTINF:-1 tvg-id="5f7790b3ed0c88000720b241" tvg-name="One Piece" tvg-logo="https://images.pluto.tv/channels/5f7790b3ed0c88000720b241/colorLogoPNG.png" group-title="KIDS",One Piece
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -462,6 +477,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d94a5451754e6a4298d10
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/QdHzT8pm/sb.png",SpongeBob
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d00e8adaab96b5635b2a005/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="" group-title="KIDS",Dora
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 ########################################### NEWS ###########################################
 
