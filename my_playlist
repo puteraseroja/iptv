@@ -571,6 +571,21 @@ https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/
 #EXTINF:-1 tvg-id="SPOTV2" tvg-name="SPOTV2" group-title="SPORTS" tvg-logo="https://iili.io/MkG2hg.png",SPOTV2
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/31f8cf2b-cc9c-4b07-af5e-82791d5e7567
+#EXTINF:-1 tvg-id="SonyTen1.in" tvg-logo="https://i.ibb.co/dGXMK2m/Desain-tanpa-judul-53-modified.png" group-title="SPORTS",Sony Ten 1
+https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_ten1_hd.smil/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/31f8cf2b-cc9c-4b07-af5e-82791d5e7567
+#EXTINF:-1 tvg-id="SonyTen2.in" tvg-logo="https://i.ibb.co/vcvx0yL/Desain-tanpa-judul-54-modified.png" group-title="SPORTS",Sony Ten 2
+https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_ten2_hd.smil/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/31f8cf2b-cc9c-4b07-af5e-82791d5e7567
+#EXTINF:-1 tvg-id="SonyTen3.in" tvg-logo="https://i.ibb.co/MBC88gg/Desain-tanpa-judul-55-modified.png" group-title="SPORTS",Sony Ten 3
+https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_ten3_hd.smil/manifest.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="https://i.ibb.co/YQSLLzY/n7f8ev1600884470.png",bein sports EXTRA 
 https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
 
@@ -611,8 +626,20 @@ https://rmtv-canela.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="",eleven 2
 http://198.16.64.10:8278/bsfuji_japan/playlist.m3u8?tid=MEFE1641904216419042&ct=19225&tsum=e49ffeb9a6df295150be1cd8f9b0ea30
 
+#EXTINF:-1 tvg-id="ImpactWrestling.us" tvg-logo="https://i.ibb.co/1n9FTzM/w-modified-removebg-preview-modified.png" group-title="SPORTS",IMPACT! Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/W3tf9Fr/unnamed-8-modified.png" group-title="SPORTS",Fite TV
+https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="",axs sport fights
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/JjT9VsD/download-22-modified-1.png" group-title="SPORTS",MMA TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=819&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=Rs19sdFRTfJdn9Wyxa4f&custom_7=60ecb878ebef9d002c4d0a11&is_lat=0
+
+#EXTINF:-1 tvg-id="TnaWrestling.us" tvg-logo="https://www.wrestlingnewsworld.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_640/MTU3NDA1OTgyMzYwMjgyMzE0/tna-wrestling.png" group-title="SPORTS",TNA Wrestling
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=509
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png",RedBull TV
 #https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
