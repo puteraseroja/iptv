@@ -395,25 +395,20 @@ http://198.16.64.10:8278/Cbeebies/playlist.m3u8?tid=ME5E7901951779019517&ct=1922
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS",Ceria
 http://50.7.220.74:8278/Ceria/playlist.m3u8?tid=m02000000000014624840&ct=17950&tsum=1d6ed7be64dc2703ae688a369df440f9
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=4596000,CODECS="avc1.77.31,mp4a.40.2",RESOLUTION=1920x1080
 #EXTINF:-1 tvg-id="DisneyChannelEast.us" group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1920px-2019_Disney_Channel_logo.svg.png",Disney Channel
-https://webudi.openhd.lol/lb/premium312/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/2047.ts
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="DisneyXDEast.us" group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1024px-Disney_XD_-_2015.svg.png",Disney XD
-https://webudi.openhd.lol/lb/premium314/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/2046.ts
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/DisneyChannel.us.png",Disney Channel US
-http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:DISNEY.smil/playlist.m3u8
+#http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:DISNEY.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/DisneyJunior.us.png",Disney Jr US
-http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:DISNEY_JR.smil/playlist.m3u8
+#http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:DISNEY_JR.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/DisneyXD.us.png",Disney Xd US
-http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:DISNEYXD.smil/playlist.m3u8
+#http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:DISNEYXD.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="",Disney junior 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
@@ -534,7 +529,6 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTVLCOPT:http-referrer=http://www.unifi_en.com.my
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2604
 #EXTINF:-1 tvg-id="AstroArena" tvg-name="Astro Arena HD" group-title="SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png",Astro Arena
@@ -549,14 +543,6 @@ https://aqfadtv.xyz/live/arena2/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/601
 #EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport HD" group-title="SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro SuperSport 1
 https://aqfadtv.xyz/live/supersport/index.mpd
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="",astro supersport
-#EXTVLCOPT:http-referrer=https://olacast.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-EXT-X-STREAM-INF:BANDWIDTH=4596000,CODECS="avc1.77.31,mp4a.40.2",RESOLUTION=1920x1080
-https://webudi.openhd.lol/lb/premium123/index.m3u8|Referrer=https://olacast.live/
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2104
@@ -574,20 +560,6 @@ https://aqfadtv.xyz/live/supersport3/index.mpd
 https://aqfadtv.xyz/live/supersport4/index.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="",astro supersport4
-#EXTVLCOPT:http-referrer=https://olacast.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://webudi.openhd.lol/lb/premium126/index.m3u8|Referrer=https://olacast.live/
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="AstroSupersport5" tvg-name="Astro SuperSport 5 HD" group-title="SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png",Astro SuperSport 5 FHD
-#EXTVLCOPT:http-referrer=https://olacast.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://webudi.openhd.lol/lb/premium43/index.m3u8|Referrer=https://olacast.live/
-
-#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1601
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Astro_SuperSport_UHD.png/revision/latest/scale-to-width-down/1000?cb=20220415221642" group-title="SPORTS",Astro SuperSport UHD
@@ -599,154 +571,11 @@ https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/
 #EXTINF:-1 tvg-id="SPOTV2" tvg-name="SPOTV2" group-title="SPORTS" tvg-logo="https://iili.io/MkG2hg.png",SPOTV2
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="https://iili.io/HnHw0hJ.png",bein sports 1 EN
-#EXTVLCOPT:http-referrer=https://olacast.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://webudi.openhd.lol/lb/premium61/index.m3u8|Referrer=https://olacast.live/
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="https://iili.io/HnHvEUQ.png",bein sports2 EN
-#EXTVLCOPT:http-referrer=https://olacast.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://webudi.openhd.lol/lb/premium90/index.m3u8|Referrer=https://olacast.live/
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_beIN_SPORTS_3.png",bein sports 3 EN
-#EXTVLCOPT:http-referrer=https://olacast.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://webudi.openhd.lol/lb/premium46/index.m3u8|Referrer=https://olacast.live/
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="https://i.ibb.co/YQSLLzY/n7f8ev1600884470.png",bein sports EXTRA 
 https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="",bt sport 1
-#EXTVLCOPT:http-referrer=https://olacast.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://webudi.openhd.lol/lb/premium31/index.m3u8|Referrer=https://olacast.live/
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="",bt sport 2
-#EXTVLCOPT:http-referrer=https://olacast.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://webudi.openhd.lol/lb/premium32/index.m3u8|Referrer=https://olacast.live/
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="",bt sport 3
-#EXTVLCOPT:http-referrer=https://olacast.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://webudi.openhd.lol/lb/premium33/index.m3u8|Referrer=https://olacast.live/
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="",bt sport 4
-#EXTVLCOPT:http-referrer=https://olacast.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://webudi.openhd.lol/lb/premium34/index.m3u8|Referrer=https://olacast.live/
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="",sky sports football
-#EXTVLCOPT:http-referrer=https://olacast.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://webudi.openhd.lol/lb/premium35/index.m3u8|Referrer=https://olacast.live/
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="",sky sports arena
-#EXTVLCOPT:http-referrer=https://olacast.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://webudi.openhd.lol/lb/premium36/index.m3u8|Referrer=https://olacast.live/
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="",sky sports nfl
-#EXTVLCOPT:http-referrer=https://olacast.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://webudi.openhd.lol/lb/premium37/index.m3u8|Referrer=https://olacast.live/
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="",skysports news
-#EXTVLCOPT:http-referrer=https://olacast.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://webudi.openhd.lol/lb/premium38/index.m3u8|Referrer=https://olacast.live/
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="",sky sports f1
-#EXTVLCOPT:http-referrer=https://olacast.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://webudi.openhd.lol/lb/premium60/index.m3u8|Referrer=https://olacast.live/
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="",sky sports cricket
-#EXTVLCOPT:http-referrer=https://olacast.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://webudi.openhd.lol/lb/premium65/index.m3u8|Referrer=https://olacast.live/
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="",sky sports golf
-#EXTVLCOPT:http-referrer=https://olacast.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://webudi.openhd.lol/lb/premium70/index.m3u8|Referrer=https://olacast.live/
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="",sky sports premier league
-#EXTVLCOPT:http-referrer=https://olacast.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://webudi.openhd.lol/lb/premium130/index.m3u8|Referrer=https://olacast.live/
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="",eurosport 1
-#EXTVLCOPT:http-referrer=https://olacast.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://webudi.openhd.lol/lb/premium42/index.m3u8|Referrer=https://olacast.live/
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="",eurosport 2
-#EXTVLCOPT:http-referrer=https://olacast.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://webudi.openhd.lol/lb/premium41/index.m3u8|Referrer=https://olacast.live/
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="",eleven sports 1
-#EXTVLCOPT:http-referrer=https://olacast.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://webudi.openhd.lol/lb/premium71/index.m3u8|Referrer=https://olacast.live/
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="",eleven sports 2
-#EXTVLCOPT:http-referrer=https://olacast.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://webudi.openhd.lol/lb/premium72/index.m3u8|Referrer=https://olacast.live/
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="",eleven 2
 http://198.16.64.10:8278/bsfuji_japan/playlist.m3u8?tid=MEFE1641904216419042&ct=19225&tsum=e49ffeb9a6df295150be1cd8f9b0ea30
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="",laliga tv
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://webudi.openhd.lol/lb/premium84/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="",laliga tv
-http://200.52.154.125:8000/play/a06f/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="",axs sport fights
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
@@ -776,100 +605,23 @@ https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.m
 #EXTINF:-1 tvg-id="wc2022-1" tvg-name="wc2022 1" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="WorldCup2022",ASTRO FWC 1
 http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/146469.m3u8
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="wc2022-1" tvg-name="wc2022 1" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="WorldCup2022",ASTRO FWC 1a
-#EXTVLCOPT:http-referrer=https://olacast.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-#https://webudi.openhd.lol/lb/premium294/index.m3u8|Referer=https://olacast.live/
-
 #EXTINF:-1 tvg-id="wc2022-2" tvg-name="wc2022 2" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="WorldCup2022",ASTRO FWC 2
 http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/146470.m3u8
 
-#EXTINF:-1 tvg-id="wc2022-2" tvg-name="wc2022 2" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="WorldCup2022",ASTRO FWC 2a
-#EXTVLCOPT:http-referrer=https://olacast.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-#https://webudi.openhd.lol/lb/premium295/index.m3u8|Referer=https://olacast.live/
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/233-2332507_fox-sports-fs1-logo-white.png" group-title="WorldCup2022",FS1
-#EXTVLCOPT:http-referrer=https://olacast.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
-#https://webudi.openhd.lol/lb/premium39/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=1235461/BF1BOX/5kUZnw26qs4F/234954
-https://webudi.openhd.lol/lb/premium39/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
-
 #EXTINF:-1 tvg-logo="https://iili.io/HnLCo6F.png" group-title="WorldCup2022",Fox
-#https://playing.goforfreedomwme.net/live/fs1us/index.m3u8
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/640px-TSN1.svg.png" group-title="WorldCup2022",TSN1
-#EXTVLCOPT:http-referrer=https://olacast.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
-https://webudi.openhd.lol/lb/premium413/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
+https://playing.goforfreedomwme.net/live/fs1us/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/640px-ITV1_logo_%282022%29.svg.png" group-title="WorldCup2022",itv1
-#https://turnthe.gameon.tel/live/itvuk/index.m3u8
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-logo="https://iili.io/HnPqUCu.png" group-title="WorldCup2022",itv1
-#EXTVLCOPT:http-referrer=https://eplayer.click/premiumtv/poscitech.php?id=123
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
-https://webudi.openhd.lol/ddy1/premium350/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
+https://turnthe.gameon.tel/live/itvuk/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="WorldCup2022",sbs
-#https://sbs-live.akamaized.net/hls/live/2002827/channel1/open/master.m3u8
+https://sbs-live.akamaized.net/hls/live/2002827/channel1/open/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.favpng.com/18/5/2/logo-tyc-sports-brand-trademark-png-favpng-rQvAXe2sEfkjKNSSBBH8FZ77d.jpg" group-title="WorldCup2022",TYC Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
 #https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
 #https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 https://is-tucuman.cdn.rcs.net.ar/mnp/tyc/output.mpd
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WorldCup2022",Gol Mondial 1
-#EXTVLCOPT:http-referrer=https://eplayer.click/premiumtv/poscitech.php?id=123
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
-https://webudi.openhd.lol/lb/premium292/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WorldCup2022",Gol Mondial 2
-#EXTVLCOPT:http-referrer=https://eplayer.click/premiumtv/poscitech.php?id=123
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
-https://webudi.openhd.lol/lb/premium293/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="beINSportsMax1.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max1.png" group-title="WorldCup2022",beIN SPORTS MAX 1
-#EXTVLCOPT:http-referrer=https://eplayer.click/premiumtv/poscitech.php?id=123
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
-https://webudi.openhd.lol/lb/premium296/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max2.png" group-title="WorldCup2022",beIN SPORTS MAX 2
-#EXTVLCOPT:http-referrer=https://olacast.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
-https://webudi.openhd.lol/lb/premium297/index.m3u8|Referer=https://olacast.live/
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max3.png" group-title="WorldCup2022",beIN SPORTS MAX 3
-#EXTVLCOPT:http-referrer=https://olacast.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
-https://webudi.openhd.lol/lb/premium298/index.m3u8|Referer=https://olacast.live/
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max4.png" group-title="WorldCup2022",beIN SPORTS MAX 4
-#EXTVLCOPT:http-referrer=https://olacast.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
-https://webudi.openhd.lol/lb/premium299/index.m3u8|Referer=https://olacast.live/
-
 
 ####### radio #######
 
