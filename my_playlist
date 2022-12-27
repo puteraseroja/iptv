@@ -397,13 +397,14 @@ http://50.7.220.74:8278/Ceria/playlist.m3u8?tid=m02000000000014624840&ct=17950&t
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=4596000,CODECS="avc1.77.31,mp4a.40.2",RESOLUTION=1920x1080
 #EXTINF:-1 tvg-id="DisneyChannelEast.us" group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1920px-2019_Disney_Channel_logo.svg.png",Disney Channel
 https://webudi.openhd.lol/lb/premium312/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXT-X-STREAM-INF:BANDWIDTH=4596000,CODECS="avc1.77.31,mp4a.40.2",RESOLUTION=1920x1080
 #EXTINF:-1 tvg-id="DisneyXDEast.us" group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1024px-Disney_XD_-_2015.svg.png",Disney XD
 https://webudi.openhd.lol/lb/premium314/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
