@@ -59,7 +59,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 #EXTINF:-1 tvg-id="OKEY" tvg-name="TV Okey" group-title="MyTV" group-logo="https://www.lyngsat.com/logo/corp/mm/mytv-broadcasting-my.png" tvg-logo="https://iili.io/1NqeAg.png",TV Okey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXT-X-STREAM-INF:BANDWIDTH=4500000,CODECS="avc1.4d40281,mp4a.40.2",RESOLUTION=1920x1080
 #https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3|Referer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
