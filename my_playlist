@@ -410,7 +410,7 @@ http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/2046.ts
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/DisneyXD.us.png",Disney Xd US
 #http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:DISNEYXD.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="",Disney junior 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="",Disney junior
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
 
 #EXTINF: -1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="",Duck TV
