@@ -1,5 +1,5 @@
 
-#EXTM3U x-tvg-url="https://github.com/AqFad2811/epg/raw/main/astro.xml,https://weareblahs.github.io/epg/unifitv.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz" refresh="1440" max-conn="3" refresh="24" billed-msg="tengok sampai lebam"
+#EXTM3U x-tvg-url="https://github.com/AqFad2811/epg/raw/main/epg.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz" refresh="1440" max-conn="3" refresh="24" billed-msg="tengok sampai lebam"
 
 ########################################### FREEVIEW ###########################################
 
