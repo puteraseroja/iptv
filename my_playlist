@@ -70,61 +70,6 @@ https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 
 ########################################### MOVIES ###########################################
 
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" group-title="MOVIES" tvg-logo="https://iili.io/1NoNqv.png",AXN
-#http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
-
-#EXTINF:-1 tvg-id="BOO" tvg-name="BOO HD" group-title="MOVIES" tvg-logo="https://iili.io/1NC1Cx.png",BOO
-#http://50.7.220.74:8278/Boo/playlist.m3u8?tid=m13c9739e046716729882&ct=17910&tsum=385e1887564e255d1164e639259d5793
-
-#EXTINF:-1 tvg-id="WarnerTV" tvg-name="Warner TV HD" group-title="MOVIES" tvg-logo="https://iili.io/1NaRi7.png",WarnerTV
-#http://198.16.64.10:8278/WarnerTV/playlist.m3u8?tid=MADA9911440699114406&ct=19225&tsum=19bde622e34ceabf296cf92a9a1adede
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/108ypnN/149-1496926-paramount-channel-france-png-download-paramount-channel-logo.png" group-title="MOVIES",Paramount
-http://iptvid.my.id/hmm/paramount.m3u8
-
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="https://iili.io/1NCEEQ.png" group-title="MOVIES",HBO 
-#http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
-
-#EXTINF:-1 tvg-id="HBOFamily1" tvg-name="HBO Family +1 HD" tvg-logo="https://iili.io/1N5hfn.png" group-title="MOVIES",HBO Family
-#http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
-
-#EXTINF:-1 tvg-id="HBOSignatureAsia.sg" tvg-name="HBO Signature" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/hbo_signature.png",HBO Signature
-#http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
-#EXTINF:-1 tvg-id="HBOSignatureAsia.sg" tvg-name="HBO Signature" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/hbo_signature.png",HBO Signature
-#http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
-
-#EXTINF:-1 tvg-id="HBOHits1" tvg-name="HBO Hits +1 HD" tvg-logo="https://iili.io/1N5jls.png" group-title="MOVIES",HBO Hit
-#http://50.7.220.74:8278/hbohits_twn/playlist.m3u8?tid=ma34564be88dc14041284&ct=17874&tsum=4c27530a08ffe34dd956619fd0f36a22
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",HBO
-#http://45.232.210.1:8062/play/a0b3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",HBO 2
-#http://45.232.210.1:8062/play/a08f/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",HBO Family
-#http://45.232.210.1:8062/play/a08i/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",HBO Plus
-#http://45.232.210.1:8062/play/a08g/index.m3u8
-#EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO HD vtn
-#EXTVLCOPT:http-user-agent=VThanhTivi
-http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
-#https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="MOVIES" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinemax HD vtn
-#EXTVLCOPT:http-user-agent=VThanhTivi
-#http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8?bycoca
-#https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="CINEMAX HD" tvg-logo="https://iili.io/1NCG4V.png" group-title="MOVIES",CINEMAX
-#http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
-#http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=mf18038aaba6311485855&ct=17874&tsum=63ee6bcdb705ee72ea3d0f0d84ed6df1
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/f3b854f5-cf7a-4614-9a95-a015ffc22de8
-#EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="MOVIES",Sony Pix HD
-https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
-
-#EXTINF:-1 tvg-id="762" group-title="MOVIES" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",Sony Pix HD 1
-#http://jio.buttflix.best/autoq.php?c=Sony_Pix_HD
-#https://tv.googledrivelinks.com:443/autoq.php?c=Sony_Pix_HD
-
 #EXTINF:-1 tvg-id="474" tvg-name="ROCK Extreme" group-title="MOVIES" group-logo="https://images.tokopedia.net/img/elTgOa/2022/6/16/afd9e20e-e781-4f83-bc5a-f406f987358a.jpg" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/202109/20210902/20210902163736941716.png",Rock Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 http://210.210.155.35/dr9445/h/h15/index.m3u8
@@ -151,6 +96,52 @@ http://210.210.155.35/uq2663/h/h194/index.m3u8?app_type=web&userid=50n13N0v14nd1
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" group-logo="https://www.nicepng.com/png/detail/436-4369539_movie-logo-film.png" tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/Moviesphere-Free_SamsungAsset_Logo_1000x1000_C_White.png",Moviesphere Free
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" group-title="MOVIES" tvg-logo="https://iili.io/1NoNqv.png",AXN
+#http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
+#EXTINF:-1 tvg-id="BOO" tvg-name="BOO HD" group-title="MOVIES" tvg-logo="https://iili.io/1NC1Cx.png",BOO
+#http://50.7.220.74:8278/Boo/playlist.m3u8?tid=m13c9739e046716729882&ct=17910&tsum=385e1887564e255d1164e639259d5793
+#EXTINF:-1 tvg-id="WarnerTV" tvg-name="Warner TV HD" group-title="MOVIES" tvg-logo="https://iili.io/1NaRi7.png",WarnerTV
+#http://198.16.64.10:8278/WarnerTV/playlist.m3u8?tid=MADA9911440699114406&ct=19225&tsum=19bde622e34ceabf296cf92a9a1adede
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/108ypnN/149-1496926-paramount-channel-france-png-download-paramount-channel-logo.png" group-title="MOVIES",Paramount
+#http://iptvid.my.id/hmm/paramount.m3u8
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="https://iili.io/1NCEEQ.png" group-title="MOVIES",HBO 
+#http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
+#EXTINF:-1 tvg-id="HBOFamily1" tvg-name="HBO Family +1 HD" tvg-logo="https://iili.io/1N5hfn.png" group-title="MOVIES",HBO Family
+#http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
+#EXTINF:-1 tvg-id="HBOSignatureAsia.sg" tvg-name="HBO Signature" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/hbo_signature.png",HBO Signature
+#http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
+#EXTINF:-1 tvg-id="HBOSignatureAsia.sg" tvg-name="HBO Signature" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/hbo_signature.png",HBO Signature
+#http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
+#EXTINF:-1 tvg-id="HBOHits1" tvg-name="HBO Hits +1 HD" tvg-logo="https://iili.io/1N5jls.png" group-title="MOVIES",HBO Hit
+#http://50.7.220.74:8278/hbohits_twn/playlist.m3u8?tid=ma34564be88dc14041284&ct=17874&tsum=4c27530a08ffe34dd956619fd0f36a22
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",HBO
+#http://45.232.210.1:8062/play/a0b3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",HBO 2
+#http://45.232.210.1:8062/play/a08f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",HBO Family
+#http://45.232.210.1:8062/play/a08i/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",HBO Plus
+#http://45.232.210.1:8062/play/a08g/index.m3u8
+#EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO HD vtn
+#EXTVLCOPT:http-user-agent=VThanhTivi
+http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
+#https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="MOVIES" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinemax HD vtn
+#EXTVLCOPT:http-user-agent=VThanhTivi
+#http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8?bycoca
+#https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="CINEMAX HD" tvg-logo="https://iili.io/1NCG4V.png" group-title="MOVIES",CINEMAX
+#http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
+#http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=mf18038aaba6311485855&ct=17874&tsum=63ee6bcdb705ee72ea3d0f0d84ed6df1
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/f3b854f5-cf7a-4614-9a95-a015ffc22de8
+#EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="MOVIES",Sony Pix HD
+#https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
+#EXTINF:-1 tvg-id="762" group-title="MOVIES" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",Sony Pix HD 1
+#http://jio.buttflix.best/autoq.php?c=Sony_Pix_HD
+#https://tv.googledrivelinks.com:443/autoq.php?c=Sony_Pix_HD
 
 #EXTINF:-1 tvg-id="474" tvg-name="ROCK Extreme" group-title="MOVIES" group-logo="https://images.tokopedia.net/img/elTgOa/2022/6/16/afd9e20e-e781-4f83-bc5a-f406f987358a.jpg" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/202109/20210902/20210902163736941716.png",Rock Action
 #http://iptvid.my.id/hmm/rockext.m3u8 
