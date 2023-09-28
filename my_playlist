@@ -330,15 +330,14 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ad55268cae539bc
 #EXTINF:-1 tvg-id="NatGeoWild" tvg-name="Nat Geo Wild HD" group-title="OTHERS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/NatGeo_WILD_V3.png",NatGeo Wild
 #http://198.16.64.10:8278/Natgeowild/playlist.m3u8?tid=MB1B3860629238606292&ct=19225&tsum=315ac040bcdf094ccacd3f57a127d1bf
 
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC HD" group-title="OTHERS" tvg-logo="https://iili.io/1NxCTF.png",TLC
+EXTINF:-1 tvg-id="TLC" tvg-name="TLC HD" group-title="OTHERS" tvg-logo="https://iili.io/1NxCTF.png",TLC
 #http://198.16.64.10:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
 
 #EXTINF: -1 tvg-id="" tvg-name="" group-title="OTHERS" tvg-logo="",Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF: -1 tvg-id="" tvg-name="" group-title="OTHERS" tvg-logo="",Love Nature
-#http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-http://bamus-eng-roku.amagi.tv/playlist.m3u8
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="OTHERS" tvg-logo="https://i.ibb.co/kMSqd9f/504-5041014-transparent-background-wild-earth-calligraphy-hd-png-download.png",Wild Earth
 #https://wildearth-roku.amagi.tv/masterR1080p.m3u8
