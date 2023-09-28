@@ -54,7 +54,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 
 #EXTINF:-1 tvg-id="TVS" tvg-name="TVS" group-title="MyTV" group-logo="https://www.lyngsat.com/logo/corp/mm/mytv-broadcasting-my.png" tvg-logo="https://iili.io/1Nqun4.png",TVS
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1077715,CODECS="avc1.42c028,mp4a.40.5",RESOLUTION=1024x576
-#https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
+https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5021
