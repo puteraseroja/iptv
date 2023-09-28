@@ -309,29 +309,29 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ad55268cae539bc
 ########################################## OTHERS ###########################################
 
 #EXTINF:-1 tvg-id="AnimalPlanetIndonesia.id" tvg-name="Animal Planet" group-title="OTHERS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png",Animal Planet
-http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
+#http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
 
 #EXTINF:-1 tvg-id="CrimeInvestigation" tvg-name="Crime and Investigation HD" group-title="OTHERS" tvg-logo="https://iili.io/1NoZ22.png",Crime Investigation
-http://50.7.220.74:8278/ci_twn/playlist.m3u8?tid=m2d09f7473c8214224973&ct=17877&tsum=eb2ddbfed683e40621e2b023bf017892
+#http://50.7.220.74:8278/ci_twn/playlist.m3u8?tid=m2d09f7473c8214224973&ct=17877&tsum=eb2ddbfed683e40621e2b023bf017892
 
 #EXTINF:-1 tvg-id="History" tvg-name="History HD" group-title="OTHERS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/History_v1.png",History Channel
-http://198.16.64.10:8278/History/playlist.m3u8?tid=MBCB1996306119963061&ct=19225&tsum=7c5458c8f917c8d0b182fb436f66e64f
+#http://198.16.64.10:8278/History/playlist.m3u8?tid=MBCB1996306119963061&ct=19225&tsum=7c5458c8f917c8d0b182fb436f66e64f
 
 #EXTINF:-1 tvg-id="DiscoveryChannel" tvg-name="Discovery Channel HD" group-title="OTHERS" tvg-logo="https://iili.io/1NnsHP.png",Discovery
-http://198.16.64.10:8278/discoveryhd_twn/playlist.m3u8?tid=ME6E2405719624057196&ct=19225&tsum=57a7c421c65e00c1b8f68f67c30141dc
+#http://198.16.64.10:8278/discoveryhd_twn/playlist.m3u8?tid=ME6E2405719624057196&ct=19225&tsum=57a7c421c65e00c1b8f68f67c30141dc
 
 #EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX HD" group-title="OTHERS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/DMAX_v1.png",Dmax
-http://50.7.220.74:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279
+#http://50.7.220.74:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279
 #http://50.7.220.74:8278/discoveryturbo_twn/playlist.m3u8?tid=MECE3122352031223520&ct=18393&tsum=66f49d6631e9a76ea563d20a25e0bd4c
 
 #EXTINF:-1 tvg-id="NationalGeographic" tvg-name="National Geographic HD" group-title="OTHERS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/National_Geographic_2008.svg/revision/latest/scale-to-width-down/1000?cb=20170701154034",NatGeo
-http://198.16.64.10:8278/Natgeo/playlist.m3u8?tid=MFCF3878328938783289&ct=19225&tsum=d9b8d4ee66870f387dfdf70452237e40
+#http://198.16.64.10:8278/Natgeo/playlist.m3u8?tid=MFCF3878328938783289&ct=19225&tsum=d9b8d4ee66870f387dfdf70452237e40
 
 #EXTINF:-1 tvg-id="NatGeoWild" tvg-name="Nat Geo Wild HD" group-title="OTHERS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/NatGeo_WILD_V3.png",NatGeo Wild
-http://198.16.64.10:8278/Natgeowild/playlist.m3u8?tid=MB1B3860629238606292&ct=19225&tsum=315ac040bcdf094ccacd3f57a127d1bf
+#http://198.16.64.10:8278/Natgeowild/playlist.m3u8?tid=MB1B3860629238606292&ct=19225&tsum=315ac040bcdf094ccacd3f57a127d1bf
 
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC HD" group-title="OTHERS" tvg-logo="https://iili.io/1NxCTF.png",TLC
-http://198.16.64.10:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
+#http://198.16.64.10:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
 
 #EXTINF: -1 tvg-id="" tvg-name="" group-title="OTHERS" tvg-logo="",Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
@@ -377,7 +377,7 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w76743512
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="https://static.megavie.live/media/animaxhd.jpg",Animax
 #https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
-http://198.16.64.10:8278/Animax/playlist.m3u8?tid=MD5D2874027628740276&ct=19225&tsum=7a70d49085de7ded56bc64fa8d46c506
+#http://198.16.64.10:8278/Animax/playlist.m3u8?tid=MD5D2874027628740276&ct=19225&tsum=7a70d49085de7ded56bc64fa8d46c506
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="",BabyShark
 https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
@@ -386,21 +386,21 @@ https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS",Cartoon Network
-http://198.16.64.10:8278/Cn/playlist.m3u8?tid=MCDC2144535021445350&ct=19225&tsum=32569c846de798e3502372d35d00773f
+#http://198.16.64.10:8278/Cn/playlist.m3u8?tid=MCDC2144535021445350&ct=19225&tsum=32569c846de798e3502372d35d00773f
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS",Cbeebies
-http://198.16.64.10:8278/Cbeebies/playlist.m3u8?tid=ME5E7901951779019517&ct=19225&tsum=03bb5bab7f669081444ce37cda408b8d
+#http://198.16.64.10:8278/Cbeebies/playlist.m3u8?tid=ME5E7901951779019517&ct=19225&tsum=03bb5bab7f669081444ce37cda408b8d
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS",Ceria
-http://50.7.220.74:8278/Ceria/playlist.m3u8?tid=m02000000000014624840&ct=17950&tsum=1d6ed7be64dc2703ae688a369df440f9
+#http://50.7.220.74:8278/Ceria/playlist.m3u8?tid=m02000000000014624840&ct=17950&tsum=1d6ed7be64dc2703ae688a369df440f9
 
 #EXTINF:-1 tvg-id="DisneyChannelEast.us" group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1920px-2019_Disney_Channel_logo.svg.png",Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
-http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/2047.ts
+#http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/2047.ts
 
 #EXTINF:-1 tvg-id="DisneyXDEast.us" group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1024px-Disney_XD_-_2015.svg.png",Disney XD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
-http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/2046.ts
+#http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/2046.ts
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/DisneyChannel.us.png",Disney Channel US
 #http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:DISNEY.smil/playlist.m3u8
@@ -437,10 +437,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b26947
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS",Nick Jr 3
-http://198.16.64.10:8278/Nickjr/playlist.m3u8?tid=MA3A3266018432660184&ct=19225&tsum=ab65f24cfbcee7192bade2c6f4055102
+#http://198.16.64.10:8278/Nickjr/playlist.m3u8?tid=MA3A3266018432660184&ct=19225&tsum=ab65f24cfbcee7192bade2c6f4055102
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS",Nickelodeon
-http://198.16.64.10:8278/Nickelodeon/playlist.m3u8?tid=MB0B3920856439208564&ct=19225&tsum=8dd558d6ca17cb0d8e9e4563c0787c69
+#http://198.16.64.10:8278/Nickelodeon/playlist.m3u8?tid=MB0B3920856439208564&ct=19225&tsum=8dd558d6ca17cb0d8e9e4563c0787c69
 
 #EXTINF: -1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
@@ -455,19 +455,19 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c63118
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="KIDS",IndiKids
-http://iptvid.my.id/hmm/indikids.m3u8
+#http://iptvid.my.id/hmm/indikids.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="KIDS",Horee
-http://iptvid.my.id/hmm/horee.m3u8
+#http://iptvid.my.id/hmm/horee.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="KIDS",Dreamworks
-http://iptvid.my.id/hmm/drmwrk.m3u8
+#http://iptvid.my.id/hmm/drmwrk.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="KIDS",Da Vinci
-http://iptvid.my.id/hmm/davinci.m3u8
+#http://iptvid.my.id/hmm/davinci.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="KIDS",Dunia Anak
-http://iptvid.my.id/hmm/duniaanak.m3u8
+#http://iptvid.my.id/hmm/duniaanak.m3u8
 
 #EXTINF:-1 tvg-id="5f7790b3ed0c88000720b241" tvg-name="One Piece" tvg-logo="https://images.pluto.tv/channels/5f7790b3ed0c88000720b241/colorLogoPNG.png" group-title="KIDS",One Piece
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -670,14 +670,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
 ###################################################### AFF 2022 ############################################################
 
-#EXTINF:-1 group-title="AFF",AFF-SD TWN
-http://198.16.64.10:8278/Arena2/playlist.m3u8?tid=ME5E8459699984596999&ct=19225&tsum=b2683db779f0d06341b243e292480482
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-id="SoccerChannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="AFF" group-logo="",AFF-HD IDN
-https://av-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/41edb0f7-fcac-4090-a72e-77276d0ca222
 #EXTINF:-1 group-title="AFF",AFF-FHD SGP
@@ -687,6 +679,25 @@ https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.m
 #EXTINF:-1 group-title="AFF",AFF-FHD BRN
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 
+###################################################### ASIA GAMES ####################################################################################################
+
+#EXTINF:-1 group-title="MYTV Broadcasting: 19th Asian Games Hangzhou 2022" ch-number="991" tvg-id="991" tvg-chno="991" ,Channel 1 19th Asian Games Hangzhou 2022
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/playlist.m3u8?id=11
+
+#EXTINF:-1 group-title="MYTV Broadcasting: 19th Asian Games Hangzhou 2022" ch-number="992" tvg-id="992" tvg-chno="992" ,Channel 2 19th Asian Games Hangzhou 2022
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/playlist.m3u8?id=12
+
+#EXTINF:-1 group-title="MYTV Broadcasting: 19th Asian Games Hangzhou 2022" ch-number="993" tvg-id="993" tvg-chno="993" ,Channel 3 19th Asian Games Hangzhou 2022
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/playlist.m3u8?id=13
+
+#EXTINF:-1 group-title="MYTV Broadcasting: 19th Asian Games Hangzhou 2022" ch-number="994" tvg-id="994" tvg-chno="994" ,Channel 4 19th Asian Games Hangzhou 2022
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/playlist.m3u8?id=14
+
+#EXTINF:-1 group-title="MYTV Broadcasting: 19th Asian Games Hangzhou 2022" ch-number="995" tvg-id="995" tvg-chno="995" ,Channel 5 19th Asian Games Hangzhou 2022
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/playlist.m3u8?id=15
+
+#EXTINF:-1 group-title="MYTV Broadcasting: 19th Asian Games Hangzhou 2022" ch-number="996" tvg-id="996" tvg-chno="996" ,Channel 6 19th Asian Games Hangzhou 2022
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag6/playlist.m3u8?id=16
 
 ####### radio #######
 
