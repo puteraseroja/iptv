@@ -80,19 +80,19 @@ http://210.210.155.35/dr9445/h/h16/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" group-logo="https://www.nicepng.com/png/detail/436-4369539_movie-logo-film.png" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/my-cinema-id.png",MY Cinema 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-http://210.210.155.35/uq2663/h/h192/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_HD
+http://210.210.155.35/dr9445/h/h192/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" group-logo="https://www.nicepng.com/png/detail/436-4369539_movie-logo-film.png" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/my-cinema-asia-id.png",MY Cinema Asia 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-http://210.210.155.35/uq2663/h/h193/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_Asia
+http://210.210.155.35/dr9445/h/h193/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" group-logo="https://www.nicepng.com/png/detail/436-4369539_movie-logo-film.png" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/my_cinema_europe_kr.png",My Cinema Europe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-http://210.210.155.35/uq2663/h/h18/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_Europe_HD
+http://210.210.155.35/dr9445/h/h18/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" group-logo="https://www.nicepng.com/png/detail/436-4369539_movie-logo-film.png" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/my-family-id.png",My Family Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-http://210.210.155.35/uq2663/h/h194/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Family_Channel_Trial-
+http://210.210.155.35/dr9445/h/h194/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" group-logo="https://www.nicepng.com/png/detail/436-4369539_movie-logo-film.png" tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/Moviesphere-Free_SamsungAsset_Logo_1000x1000_C_White.png",Moviesphere Free
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
