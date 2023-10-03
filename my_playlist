@@ -98,6 +98,36 @@ http://210.210.155.35:80/uq2663/h/h18/01.m3u8
 #http://210.210.155.35/dr9445/h/h194/index.m3u8
 http://210.210.155.35:80/uq2663/h/h194/index.m3u8
 
+#EXTINF:-1 group-title="entertaiment",CELESTIAL MOVIES
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+
+#EXTINF:-1 group-title="entertaiment",KIX SD
+http://210.210.155.35/uq2663/h/h07/02.m3u8
+
+#EXTINF:-1 group-title="entertaiment",KIX HD
+http://210.210.155.35/uq2663/h/h07/01.m3u8
+
+#EXTINF:-1 group-title="entertaiment",thrill SD
+http://210.210.155.35/qwr9ew/s/s34/02.m3u8
+
+#EXTINF:-1 group-title="entertaiment",thrill HD
+http://210.210.155.35/qwr9ew/s/s34/01.m3u8
+
+#EXTINF:-1 group-title="entertaiment",MY CINEMA
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="entertaiment",CINEMA WORD
+http://210.210.155.35/uq2663/h/h04/index2.m3u8
+
+#EXTINF:-1 group-title="entertaiment",HITS
+http://210.210.155.35/uq2663/h/h37/index2.m3u8
+
+#EXTINF:-1 group-title="entertaiment",DIVA
+http://210.210.155.35:80/uq2663/h/h11/01.m3u8
+
+#EXTINF:-1 group-title="entertaiment",AXN
+http://210.210.155.35:80/uq2663/h/h141/01.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" group-logo="https://www.nicepng.com/png/detail/436-4369539_movie-logo-film.png" tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/Moviesphere-Free_SamsungAsset_Logo_1000x1000_C_White.png",Moviesphere Free
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 
