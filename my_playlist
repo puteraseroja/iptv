@@ -31,7 +31,7 @@ EXTINF:-1 group-title="MyTV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/myt
 #EXTVLCOPT:http-referrer=https://d25tgymtnqzu8s.cloudfront.net
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 
-#EXTINF:-1 tvg-id="DidikTVKPM" tvg-name="Didik TV KPM" group-title="MyTV" group-logo"=https://www.lyngsat.com/logo/corp/mm/mytv-broadcasting-my.png" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/147.png",DidikTV KPM
+#EXTINF:-1 tvg-id="DidikTVKPM" tvg-name="Didik TV KPM" group-title="MyTV" group-logo"=https://www.lyngsat.com/logo/corp/mm/mytv-broadcasting-my.png" tvg-logo="https://aqfadtv.xyz/logos/DidikTVKPM.png",DidikTV KPM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056641&autoplay=1&mute=0
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8
@@ -47,7 +47,7 @@ https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1113
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/7cf62bb4-e227-4fb5-9749-4add82a453db
 #EXTINF:-1 tvg-id="TVAlhijrah" tvg-name="Al-Hijrah" group-title="MyTV" group-logo="https://www.lyngsat.com/logo/corp/mm/mytv-broadcasting-my.png" tvg-logo="https://iili.io/1NqqFI.png",Al-Hijrah
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 
