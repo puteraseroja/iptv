@@ -81,13 +81,13 @@ http://210.210.155.35/dr9445/h/h16/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" group-logo="https://www.nicepng.com/png/detail/436-4369539_movie-logo-film.png" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/my-cinema-id.png",MY Cinema 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#http://210.210.155.35/dr9445/h/h192/index.m3u8
-http://210.210.155.35:80/uq2663/h/h192/01.m3u8
+http://210.210.155.35/dr9445/h/h192/index.m3u8
+#http://210.210.155.35:80/uq2663/h/h192/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" group-logo="https://www.nicepng.com/png/detail/436-4369539_movie-logo-film.png" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/my-cinema-asia-id.png",MY Cinema Asia 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#http://210.210.155.35/dr9445/h/h193/index.m3u8
-http://210.210.155.35:80/uq2663/h/h193/01.m3u8
+http://210.210.155.35/dr9445/h/h193/index.m3u8
+#http://210.210.155.35:80/uq2663/h/h193/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" group-logo="https://www.nicepng.com/png/detail/436-4369539_movie-logo-film.png" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/my_cinema_europe_kr.png",My Cinema Europe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
@@ -96,8 +96,50 @@ http://210.210.155.35:80/uq2663/h/h18/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" group-logo="https://www.nicepng.com/png/detail/436-4369539_movie-logo-film.png" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/my-family-id.png",My Family Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#http://210.210.155.35/dr9445/h/h194/index.m3u8
-http://210.210.155.35:80/uq2663/h/h194/index.m3u8
+http://210.210.155.35/dr9445/h/h194/index.m3u8
+#http://210.210.155.35:80/uq2663/h/h194/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png" group-title="MOVIES",Sony PIX
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="MOVIES",Star Movie
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/strmvi.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/101462-moviesnow.jpg" group-title="MOVIES",Movies Now
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnow.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg" group-title="MOVIES",MN Plus
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnpls.m3u8
+
+#EXTINF:-1 tvg-logo="https://bestmediainfo.com/uploads/2017/09/andPrive-HD_6.jpg" group-title="MOVIES",AndPrive
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/prv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/andflix-logo.jpg" group-title="MOVIES",AndFlix
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" group-logo="https://www.nicepng.com/png/detail/436-4369539_movie-logo-film.png" tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/Moviesphere-Free_SamsungAsset_Logo_1000x1000_C_White.png",Moviesphere Free
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" group-logo="https://www.nicepng.com/png/detail/436-4369539_movie-logo-film.png" tvg-logo="https://i.imgur.com/H2hD4vT.png",Gravitas Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" group-logo="https://www.nicepng.com/png/detail/436-4369539_movie-logo-film.png" tvg-logo="https://i.imgur.com/SQInLji.png",My time Movies Network
+https://mytime-tcl.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" group-logo="https://www.nicepng.com/png/detail/436-4369539_movie-logo-film.png" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81VZaxj6a1L._SY355_.png",FilmRise Family
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" group-logo="https://www.nicepng.com/png/detail/436-4369539_movie-logo-film.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Rakuten_Global_Brand_Logo.svg/440px-Rakuten_Global_Brand_Logo.svg.png",Rakuten Action Movies
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" tvg-logo="https://i.ibb.co/ykfcdXd/Logo-FLIX-TV.png",Family Flix
+https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/red-box-tv-logo_202107/RedBox-TV-logo.png" group-title="MOVIES",REDBOX
+https://comedy-redbox.amagi.tv/playlist480p.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/15ac6c5a93d6db3e62101b29491615d2ec89ffaee7899f94ccf5728c236a70fc.png" group-title="MOVIES",REDBOX2
+https://rush-redbox.amagi.tv/playlist720p.m3u8
 
 #EXTINF:-1 group-title="entertaiment",CELESTIAL MOVIES
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
@@ -117,7 +159,7 @@ http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 group-title="entertaiment",MY CINEMA
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 
-#EXTINF:-1 group-title="entertaiment",CINEMA WORD
+#EXTINF:-1 group-title="entertaiment",CINEMA WORLD
 http://210.210.155.35/uq2663/h/h04/index2.m3u8
 
 #EXTINF:-1 group-title="entertaiment",HITS
@@ -128,12 +170,6 @@ http://210.210.155.35:80/uq2663/h/h11/01.m3u8
 
 #EXTINF:-1 group-title="entertaiment",AXN
 http://210.210.155.35:80/uq2663/h/h141/01.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" group-logo="https://www.nicepng.com/png/detail/436-4369539_movie-logo-film.png" tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/Moviesphere-Free_SamsungAsset_Logo_1000x1000_C_White.png",Moviesphere Free
-https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png" group-title="MOVIES",Sony PIX
-https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/f3b854f5-cf7a-4614-9a95-a015ffc22de8
@@ -159,32 +195,17 @@ https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manife
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" group-logo="https://www.nicepng.com/png/detail/436-4369539_movie-logo-film.png" tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/Moviesphere-Free_SamsungAsset_Logo_1000x1000_C_White.png",Moviesphere Free
 #https://amg00353-lionsgate-moviesphere-rokuus-w763b.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" group-logo="https://www.nicepng.com/png/detail/436-4369539_movie-logo-film.png" tvg-logo="https://i.ibb.co/ykfcdXd/Logo-FLIX-TV.png",Family Flix
-https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" group-logo="https://www.nicepng.com/png/detail/436-4369539_movie-logo-film.png" tvg-logo="https://i.ibb.co/r6WS80p/download-1.png",Movies Hub
 #https://dje6yassknq8t.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" group-logo="https://www.nicepng.com/png/detail/436-4369539_movie-logo-film.png" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png",RedBox Spotlight
-https://spotlight-redbox.amagi.tv:443/playlist240p.m3u8
+#https://spotlight-redbox.amagi.tv:443/playlist240p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" group-logo="https://www.nicepng.com/png/detail/436-4369539_movie-logo-film.png" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png",RedBox Comedy
-https://comedy-redbox.amagi.tv:443/playlist1080p.m3u8
+#https://comedy-redbox.amagi.tv:443/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" group-logo="https://www.nicepng.com/png/detail/436-4369539_movie-logo-film.png" tvg-logo="https://i.ibb.co/Srm8zWy/x.png",Movies X
 #http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" group-logo="https://www.nicepng.com/png/detail/436-4369539_movie-logo-film.png" tvg-logo="https://i.imgur.com/H2hD4vT.png",Gravitas Movies
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" group-logo="https://www.nicepng.com/png/detail/436-4369539_movie-logo-film.png" tvg-logo="https://i.imgur.com/SQInLji.png",My time Movies Network
-https://mytime-tcl.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" group-logo="https://www.nicepng.com/png/detail/436-4369539_movie-logo-film.png" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81VZaxj6a1L._SY355_.png",FilmRise Family
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" group-logo="https://www.nicepng.com/png/detail/436-4369539_movie-logo-film.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Rakuten_Global_Brand_Logo.svg/440px-Rakuten_Global_Brand_Logo.svg.png",Rakuten Action Movies
-https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="STIRRHorrorMovies.us" tvg-name="STIRRHorrorMovies.us" group-title="MOVIES" group-logo="https://www.nicepng.com/png/detail/436-4369539_movie-logo-film.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi-v-YIM3eq_GtbRcFbGkIbJKUHKX-aFRAJA&usqp=CAU",STIRR Horror Movies
 #https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8
